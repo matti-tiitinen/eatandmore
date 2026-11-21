@@ -1,0 +1,448 @@
+{
+ "version": 1,
+ "updated": "2026-11-21",
+ "weights": {
+  "quality": 0.22,
+  "test": 0.18,
+  "rating": 0.12,
+  "trend": 0.08,
+  "price": 0.22,
+  "brand": 0.1,
+  "compat": 0.08
+ },
+ "compat": {
+  "Cybex": [
+   "Cybex"
+  ],
+  "Bugaboo": [
+   "Bugaboo",
+   "Cybex",
+   "Maxi-Cosi"
+  ],
+  "Hauck": [
+   "Hauck"
+  ],
+  "Inglesina": [
+   "Inglesina"
+  ],
+  "Emmaljunga": [
+   "Emmaljunga"
+  ],
+  "Easywalker": [
+   "Easywalker"
+  ],
+  "Bumprider": [
+   "Bumprider"
+  ]
+ },
+ "products": {
+  "gid://shopify/Product/9345692434764": {
+   "brand": "Hauck",
+   "quality": 0.58
+  },
+  "gid://shopify/Product/14884282696059": {
+   "brand": "Bugaboo",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15355205681531": {
+   "brand": "Cybex",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15583210176896": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/8044233130251": {
+   "brand": "Emmaljunga",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/15316768424260": {
+   "brand": "Easywalker",
+   "quality": 0.72
+  },
+  "gid://shopify/Product/11071423480141": {
+   "brand": "Bumprider",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/7483915534414": {
+   "brand": "Cybex",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15270130450811": {
+   "brand": "Voksi",
+   "quality": 0.82
+  },
+  "gid://shopify/Product/6621275652174": {
+   "brand": "Bugaboo",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/9345693679948": {
+   "brand": "Hauck",
+   "quality": 0.58
+  },
+  "gid://shopify/Product/15365299241344": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/6869812150350": {
+   "brand": "Cybex",
+   "quality": 0.9,
+   "test": {
+    "org": "ADAC",
+    "grade": "1,7",
+    "when": "syksy 2023 (Base T -jalustalla)",
+    "score": 0.844
+   }
+  },
+  "gid://shopify/Product/15397224382848": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/6867616432206": {
+   "brand": "Cybex",
+   "quality": 0.9,
+   "test": {
+    "org": "ADAC",
+    "grade": "2,4",
+    "when": "syksy 2025",
+    "score": 0.689
+   }
+  },
+  "gid://shopify/Product/15230401905019": {
+   "brand": "BeSafe",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15397243486592": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/15398880182656": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/9399116333386": {
+   "brand": "Fidella",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/10233207750944": {
+   "brand": "Ergobaby",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/10231031726368": {
+   "brand": "Ergobaby",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/9146700497228": {
+   "brand": "Hauck",
+   "quality": 0.58
+  },
+  "gid://shopify/Product/15397521916288": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/4733282943054": {
+   "brand": "Stokke",
+   "quality": 0.92
+  },
+  "gid://shopify/Product/6949892849713": {
+   "brand": "iCandy",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/6932368326734": {
+   "brand": "Tutti Bambini",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/6800228155435": {
+   "brand": "Done by Deer",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15275209097595": {
+   "brand": "bbhugme",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/6863252684878": {
+   "brand": "Lola&Lykke",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/6837474885710": {
+   "brand": "BIBS",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/15066246054267": {
+   "brand": "Fraupow",
+   "quality": 0.6
+  },
+  "gid://shopify/Product/4850216992846": {
+   "brand": "Elvie",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/15222902227323": {
+   "brand": "Momcozy",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/3705947979854": {
+   "brand": "Elvie",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/16038473695576": {
+   "brand": "Done by Deer",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15099615674747": {
+   "brand": "Bibado",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/15396730175867": {
+   "brand": "Liewood",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/6793603678321": {
+   "brand": "Baby Elegance",
+   "quality": 0.55
+  },
+  "gid://shopify/Product/15368090616187": {
+   "brand": "Silver Cross",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/14901957624187": {
+   "brand": "Snuz",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/6793593847921": {
+   "brand": "Baby Elegance",
+   "quality": 0.55
+  },
+  "gid://shopify/Product/14956184437080": {
+   "brand": "Cam Cam",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15205719769467": {
+   "brand": "Jollein",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/6939375763561": {
+   "brand": "Cam Cam",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/6939039498318": {
+   "brand": "LeapFrog",
+   "quality": 0.65
+  },
+  "gid://shopify/Product/6733895467086": {
+   "brand": "Maxi-Cosi",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/6948902928462": {
+   "brand": "Nanit",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/9345692336460": {
+   "brand": "Hauck",
+   "quality": 0.58
+  },
+  "gid://shopify/Product/15373224051067": {
+   "brand": "Maxi-Cosi",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/4614499139662": {
+   "brand": "BabyBjörn",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15397442257280": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/8769288831320": {
+   "brand": "Cam Cam",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/6904505597994": {
+   "brand": "Liewood",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/9112547852637": {
+   "brand": "Metsola",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/6760497676366": {
+   "brand": "Mama Shack",
+   "quality": 0.65
+  },
+  "gid://shopify/Product/14840817549656": {
+   "brand": "Done by Deer",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/6972053028942": {
+   "brand": "Shnuggle",
+   "quality": 0.72
+  },
+  "gid://shopify/Product/15283109888379": {
+   "brand": "Tutti Bambini",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/10022548341082": {
+   "brand": "Baby Elegance",
+   "quality": 0.55
+  },
+  "gid://shopify/Product/6787240886350": {
+   "brand": "Stokke",
+   "quality": 0.92
+  },
+  "gid://shopify/Product/6755922247758": {
+   "brand": "Shnuggle",
+   "quality": 0.72
+  },
+  "gid://shopify/Product/4733289332814": {
+   "brand": "Stokke",
+   "quality": 0.92
+  },
+  "gid://shopify/Product/15905689010560": {
+   "brand": "Metsola",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15634422694272": {
+   "brand": "Metsola",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/7273687253173": {
+   "brand": "Konges",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15049103114616": {
+   "brand": "Gugguu",
+   "quality": 0.82
+  },
+  "gid://shopify/Product/15204191895927": {
+   "brand": "Liewood",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15067428913528": {
+   "brand": "Gugguu",
+   "quality": 0.82
+  },
+  "gid://shopify/Product/15051114873208": {
+   "brand": "Gugguu",
+   "quality": 0.82
+  },
+  "gid://shopify/Product/9146690797900": {
+   "brand": "Hauck",
+   "quality": 0.58
+  },
+  "gid://shopify/Product/7416817614926": {
+   "brand": "Ergobaby",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/6801515610190": {
+   "brand": "BabyBjörn",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/6885729960014": {
+   "brand": "Tiny Love",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/3704937316430": {
+   "brand": "The Little Green Sheep",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/6800232415275": {
+   "brand": "Done by Deer",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15033145393527": {
+   "brand": "Liewood",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/6954987716651": {
+   "brand": "Done by Deer",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/15021469466999": {
+   "brand": "Liewood",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/8880274243928": {
+   "brand": "Done by Deer",
+   "quality": 0.8
+  },
+  "gid://shopify/Product/4840771813454": {
+   "brand": "Fred",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/4840772239438": {
+   "brand": "Fred",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/4840772894798": {
+   "brand": "Fred",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/6682661453902": {
+   "brand": "Carriwell",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/6682661650510": {
+   "brand": "Carriwell",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/6948614668366": {
+   "brand": "Carriwell",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/15355205648763": {
+   "brand": "Cybex",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15563833082240": {
+   "brand": "Inglesina",
+   "quality": 0.78
+  },
+  "gid://shopify/Product/7488347504718": {
+   "brand": "Cybex",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15425827799419": {
+   "brand": "Joolz",
+   "quality": 0.82
+  },
+  "gid://shopify/Product/10185682125067": {
+   "brand": "Emmaljunga",
+   "quality": 0.85
+  },
+  "gid://shopify/Product/15275711824251": {
+   "brand": "Tutti Bambini",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/15373223592315": {
+   "brand": "Maxi-Cosi",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/6939040186446": {
+   "brand": "VTech",
+   "quality": 0.62
+  },
+  "gid://shopify/Product/7410664734798": {
+   "brand": "Babymoov",
+   "quality": 0.68
+  },
+  "gid://shopify/Product/15448786239867": {
+   "brand": "BabyBjörn",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/7434012917838": {
+   "brand": "Maxi-Cosi",
+   "quality": 0.75
+  },
+  "gid://shopify/Product/15222902522235": {
+   "brand": "Momcozy",
+   "quality": 0.7
+  },
+  "gid://shopify/Product/7003154284622": {
+   "brand": "Bugaboo",
+   "quality": 0.9
+  },
+  "gid://shopify/Product/15437744767355": {
+   "brand": "Nuna",
+   "quality": 0.88
+  }
+ }
+}
