@@ -106,7 +106,13 @@ def fetch_trends(brands):
         out[b] = {"score": round(max(0.0, min(1.0, 0.35 + (ratio - 1.0))), 3), "growth": round(ratio, 3),
                   "source": f"Google Trends ({', '.join(GEOS)}), 30 pv vs 12 kk", "date": TODAY}
     print(f"trends: {len(out)} merkkiä")
-    return {"brands": out}
+    if not out:
+        return {}
+    # Yhdistetään aiempaan: merkki, jota ei saatu tänä yönä, säilyy kunnes sen tuoreusikkuna (45 pv) umpeutuu.
+    old = DATA / "trends.json"
+    merged = (json.loads(old.read_text()).get("brands") if old.exists() else None) or {}
+    merged.update(out)
+    return {"brands": merged}
 
 
 def fetch_ratings():
