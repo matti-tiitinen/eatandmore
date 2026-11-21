@@ -7,7 +7,8 @@
 3. Arviot: kytkettävät lähteet (data/ratings.json). Google ei tarjoa julkista rajapintaa tuotearvioihin muille
    kuin kauppiaille, eikä Googlen hakutuloksia saa kaapia ehtojen vuoksi, joten Google-arviot ovat pois päältä.
    Käytössä: data/ratings_manual.json (toimituksen lisäämät, lähteistetyt arviot).
-4. Signaalit: scripts/build_signals.py → signals/ucp_signals.json.
+4. Asiantuntijat: data/expert_signals.json (toimituksen julkisista lähteistä kokoamat testit ja palkinnot, lähde-URL ja vuosi).
+5. Signaalit: scripts/build_signals.py → signals/ucp_signals.json.
 
 Lukuja ei keksitä: jos lähde ei vastaa, sen signaali jää pois ja vanha poistuu tuoreusikkunan jälkeen.
 """
@@ -140,6 +141,8 @@ def main():
     for name in ["trends", "ratings", "stock"]:
         if (DATA / f"{name}.json").exists():
             args += [f"--{name}", str(DATA / f"{name}.json")]
+    if (DATA / "expert_signals.json").exists():
+        args += ["--experts", str(DATA / "expert_signals.json")]
     subprocess.run(args, check=True)
 
 

@@ -7,7 +7,10 @@ Signaalit tuotteittain:
 - rating: arvostelujen keskiarvo ja määrä. Täytetään, kun lähde on kytketty (RATINGS).
 - trend: kiinnostuksen kasvu somessa ja uutisissa (0–1). Täytetään trendiajolla (TRENDS).
 
-Käyttö: python3 build_signals.py <ucp_catalog.json> <ulos.json> [--trends trends.json] [--ratings ratings.json] [--stock stock.json]
+Käyttö: python3 build_signals.py <ucp_catalog.json> <ulos.json> [--trends trends.json] [--ratings ratings.json] [--stock stock.json] [--experts expert_signals.json]
+
+Asiantuntijat (expert): toimituksen julkisista lähteistä kokoamat testit, palkinnot ja asiantuntijavalinnat
+(data/expert_signals.json, jokaisella lähde-URL ja vuosi). Paino puoliintuu 3 vuodessa. Arvosteluja ei kaapita.
 Palvelimella (eatandmore-repositorion yöajo) sama skripti saa lisäksi Google Trends -datan, arviot ja
 varastotilanteen. Tulos julkaistaan osoitteeseen AppInfo.signalsURL.
 
@@ -71,13 +74,26 @@ def fresh(entry, kind, today):
 def load(path):
     return json.load(open(path)) if path else {}
 
-def main(src, dst, trends=None, ratings=None, stock=None):
+HALF_LIFE_YEARS = 3
+
+def expert_of(entries, year_now):
+    """Vahvin asiantuntijasignaali: pisteet × 0,5^(ikä / 3 v)."""
+    best = None
+    for e in entries:
+        age = max(0, year_now - int(e["year"]))
+        score = round(float(e["points"]) * 0.5 ** (age / HALF_LIFE_YEARS), 3)
+        if not best or score > best["score"]:
+            best = {"score": score, "org": e["org"], "title": e["title"], "year": int(e["year"]), "source": e["source"]}
+    return best
+
+def main(src, dst, trends=None, ratings=None, stock=None, experts=None):
     c = json.load(open(src))
     shops = {s["id"]: s for s in c["shops"]}
     today = datetime.date.today()
     trend_data = load(trends)      # {"brands": {merkki: {score, date, source}}, "products": {id: {...}}}
     rating_data = load(ratings)    # {id: {value, count, source, date}}
     stock_data = load(stock)       # {id: {available, date}}
+    expert_data = (load(experts) or {}).get("products", {})  # {id: [{type, org, title, year, source, points}]}
     out = {}
     for p in c["products"]:
         b = brand_of(p, shops)
@@ -91,6 +107,9 @@ def main(src, dst, trends=None, ratings=None, stock=None):
             s["trend"] = {"score": round(tr["score"], 3), "source": tr["source"], "date": tr["date"]}
         elif b in EDITORIAL_TREND:
             s["trend"] = {"score": EDITORIAL_TREND[b], "source": EDITORIAL_SOURCE, "date": today.isoformat()}
+        if p["id"] in expert_data:
+            ex = expert_of(expert_data[p["id"]], today.year)
+            if ex: s["expert"] = ex
         st = stock_data.get(p["id"])
         if st and fresh(st, "stock", today) and st.get("available") is False: s["available"] = False
         out[p["id"]] = s
@@ -98,7 +117,8 @@ def main(src, dst, trends=None, ratings=None, stock=None):
         "version": 1,
         "updated": datetime.date.today().isoformat(),
         # Painot ovat säädettävissä palvelimelta ilman sovelluspäivitystä.
-        "weights": {"quality": 0.22, "test": 0.18, "rating": 0.12, "trend": 0.08, "price": 0.22, "brand": 0.10, "compat": 0.08},
+        # Arviot (rating) ovat pois käytöstä; niiden paino siirtyi asiantuntijoille (expert).
+        "weights": {"quality": 0.22, "test": 0.18, "rating": 0.0, "expert": 0.12, "trend": 0.08, "price": 0.22, "brand": 0.10, "compat": 0.08},
         # Vaunujen merkki → turvakaukalon/lämpöpussin merkit, jotka sopivat suoraan (kauppojen valmiit paketit).
         "compat": {"Cybex": ["Cybex"], "Bugaboo": ["Bugaboo", "Cybex", "Maxi-Cosi"], "Hauck": ["Hauck"], "Inglesina": ["Inglesina"],
                    "Emmaljunga": ["Emmaljunga"], "Easywalker": ["Easywalker"], "Bumprider": ["Bumprider"]},
@@ -108,11 +128,12 @@ def main(src, dst, trends=None, ratings=None, stock=None):
     print(len(out), "products,", sum(1 for v in out.values() if "test" in v), "with test,",
           sum(1 for v in out.values() if "rating" in v), "with rating,",
           sum(1 for v in out.values() if v.get("trend", {}).get("source", "").startswith("Google")), "with Google Trends,",
-          sum(1 for v in out.values() if v.get("trend", {}).get("source") == EDITORIAL_SOURCE), "with editorial trend")
+          sum(1 for v in out.values() if v.get("trend", {}).get("source") == EDITORIAL_SOURCE), "with editorial trend,",
+          sum(1 for v in out.values() if "expert" in v), "with expert signal")
 
 if __name__ == "__main__":
     a = argparse.ArgumentParser()
     a.add_argument("catalog"); a.add_argument("out")
-    a.add_argument("--trends"); a.add_argument("--ratings"); a.add_argument("--stock")
+    a.add_argument("--trends"); a.add_argument("--ratings"); a.add_argument("--stock"); a.add_argument("--experts")
     x = a.parse_args()
-    main(x.catalog, x.out, x.trends, x.ratings, x.stock)
+    main(x.catalog, x.out, x.trends, x.ratings, x.stock, x.experts)

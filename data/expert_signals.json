@@ -1,0 +1,155 @@
+{
+ "_ohje": "Toimituksen kokoamat asiantuntija-arviot, testit ja palkinnot julkisista lähteistä. Jokaisella merkinnällä on lähde-URL ja vuosi. Pisteet: voitto/kulta 1,0, suositus 0,7–0,9, pronssi 0,5. Ikä vähentää painoa (puoliintumisaika 3 vuotta). Ei automaattista kaapimista.",
+ "products": {
+  "gid://shopify/Product/15355205681531": [
+   {
+    "name": "Cybex e-Priam -yhdistelmävaunut",
+    "type": "award",
+    "org": "Red Dot",
+    "title": "Red Dot Design Award, Product Design",
+    "year": 2022,
+    "source": "https://www.red-dot.org/project/e-priam-57022",
+    "points": 1.0
+   }
+  ],
+  "gid://shopify/Product/15355205648763": [
+   {
+    "name": "Cybex Priam -yhdistelmävaunut",
+    "type": "award",
+    "org": "Red Dot",
+    "title": "Red Dot Design Award (e-Priam, sama runko)",
+    "year": 2022,
+    "source": "https://www.red-dot.org/project/e-priam-57022",
+    "points": 0.6
+   }
+  ],
+  "gid://shopify/Product/15355206140283": [
+   {
+    "name": "Cybex Coya -matkarattaat",
+    "type": "award",
+    "org": "Red Dot",
+    "title": "Red Dot Design Award, Product Design",
+    "year": 2026,
+    "source": "https://www.red-dot.org/project/coya-86929",
+    "points": 1.0
+   },
+   {
+    "name": "Cybex Coya -matkarattaat",
+    "type": "award",
+    "org": "Nappa Awards",
+    "title": "Nappa Awards Winner",
+    "year": 2023,
+    "source": "https://www.nappaawards.com/?p=16884",
+    "points": 0.8
+   }
+  ],
+  "gid://shopify/Product/15355205550459": [
+   {
+    "name": "Cybex Coya -matkarattaat ja vaunukoppa",
+    "type": "award",
+    "org": "Red Dot",
+    "title": "Red Dot Design Award, Product Design",
+    "year": 2026,
+    "source": "https://www.red-dot.org/project/coya-86929",
+    "points": 1.0
+   }
+  ],
+  "gid://shopify/Product/6869812150350": [
+   {
+    "name": "Cybex Cloud T i-Size -turvakaukalo",
+    "type": "test",
+    "org": "ADAC",
+    "title": "ADAC-turvaistuintesti 1,7 (Base T -jalustalla), testin parhaat",
+    "year": 2023,
+    "source": "https://www.happybaby.de/2023/10/adac-kindersitztest-27-gute-sitze-2-beanstandungen/",
+    "points": 1.0
+   }
+  ],
+  "gid://shopify/Product/6867616432206": [
+   {
+    "name": "Cybex Sirona T i-Size -turvaistuin",
+    "type": "test",
+    "org": "ADAC",
+    "title": "ADAC-turvaistuintesti 2,4 (gut)",
+    "year": 2025,
+    "source": "https://dachboxzentrum.de/blog/adac-kindersitz-test-2025/",
+    "points": 0.7
+   }
+  ],
+  "gid://shopify/Product/4733282943054": [
+   {
+    "name": "Stokke Tripp Trapp -syöttötuoli",
+    "type": "award",
+    "org": "Junior Design Awards",
+    "title": "Joint Gold, Best Highchair Design",
+    "year": 2025,
+    "source": "https://www.juniormagazine.co.uk/?p=11482",
+    "points": 1.0
+   }
+  ],
+  "gid://shopify/Product/6801515610190": [
+   {
+    "name": "BabyBjörn Bliss -sitteri",
+    "type": "award",
+    "org": "MadeForMums Awards",
+    "title": "Bronze, baby bouncer, swing or seat",
+    "year": 2018,
+    "source": "https://www.madeformums.com/reviews/madeformums-awards-2018-winners-results/",
+    "points": 0.5
+   }
+  ],
+  "gid://shopify/Product/6948902928462": [
+   {
+    "name": "Nanit Pro -unikamera seinäkiinnikkeellä",
+    "type": "expert_review",
+    "org": "Reviewed",
+    "title": "Editor's Choice, Best Overall baby monitor",
+    "year": 2025,
+    "source": "https://reviewed.com/baby-monitors",
+    "points": 0.8
+   },
+   {
+    "name": "Nanit Pro -unikamera seinäkiinnikkeellä",
+    "type": "expert_review",
+    "org": "Babylist",
+    "title": "Best WiFi Baby Monitor",
+    "year": 2025,
+    "source": "https://www.babylist.com/hello-baby/best-baby-monitors",
+    "points": 0.7
+   }
+  ],
+  "gid://shopify/Product/15225098076539": [
+   {
+    "name": "Owlet Dream Duo -unikamera ja älysukka",
+    "type": "expert_review",
+    "org": "Babylist",
+    "title": "Best Vitals Tracking Baby Monitor (Dream Duo)",
+    "year": 2025,
+    "source": "https://www.babylist.com/hello-baby/best-baby-monitors",
+    "points": 0.7
+   }
+  ],
+  "gid://shopify/Product/10233207750944": [
+   {
+    "name": "Ergobaby Omni Deluxe -kantoreppu",
+    "type": "award",
+    "org": "Parents Best for Baby",
+    "title": "Best Overall Carrier (kaupan tuotekuvauksen mukaan)",
+    "year": 2025,
+    "source": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier",
+    "points": 0.9
+   }
+  ],
+  "gid://shopify/Product/7416817614926": [
+   {
+    "name": "Ergobaby Evolve -sitteri",
+    "type": "award",
+    "org": "Parents Best for Baby",
+    "title": "Best Newborn Bouncer (kaupan tuotekuvauksen mukaan)",
+    "year": 2025,
+    "source": "https://www.naturalbabyshower.co.uk/products/ergobaby-evolve-mesh-baby-bouncer-sage-green",
+    "points": 0.9
+   }
+  ]
+ }
+}

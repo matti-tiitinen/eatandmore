@@ -4,7 +4,8 @@
  "weights": {
   "quality": 0.22,
   "test": 0.18,
-  "rating": 0.12,
+  "rating": 0.0,
+  "expert": 0.12,
   "trend": 0.08,
   "price": 0.22,
   "brand": 0.1,
@@ -56,6 +57,13 @@
     "score": 0.395,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.397,
+    "org": "Red Dot",
+    "title": "Red Dot Design Award, Product Design",
+    "year": 2022,
+    "source": "https://www.red-dot.org/project/e-priam-57022"
    }
   },
   "gid://shopify/Product/15583210176896": {
@@ -122,6 +130,13 @@
     "score": 0.395,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.5,
+    "org": "ADAC",
+    "title": "ADAC-turvaistuintesti 1,7 (Base T -jalustalla), testin parhaat",
+    "year": 2023,
+    "source": "https://www.happybaby.de/2023/10/adac-kindersitztest-27-gute-sitze-2-beanstandungen/"
    }
   },
   "gid://shopify/Product/15397224382848": {
@@ -141,6 +156,13 @@
     "score": 0.395,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.556,
+    "org": "ADAC",
+    "title": "ADAC-turvaistuintesti 2,4 (gut)",
+    "year": 2025,
+    "source": "https://dachboxzentrum.de/blog/adac-kindersitz-test-2025/"
    }
   },
   "gid://shopify/Product/15230401905019": {
@@ -171,6 +193,13 @@
     "score": 0.155,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.714,
+    "org": "Parents Best for Baby",
+    "title": "Best Overall Carrier (kaupan tuotekuvauksen mukaan)",
+    "year": 2025,
+    "source": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier"
    }
   },
   "gid://shopify/Product/10231031726368": {
@@ -197,6 +226,13 @@
     "score": 0.413,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.794,
+    "org": "Junior Design Awards",
+    "title": "Joint Gold, Best Highchair Design",
+    "year": 2025,
+    "source": "https://www.juniormagazine.co.uk/?p=11482"
    }
   },
   "gid://shopify/Product/6949892849713": {
@@ -319,7 +355,14 @@
   },
   "gid://shopify/Product/6948902928462": {
    "brand": "Nanit",
-   "quality": 0.85
+   "quality": 0.85,
+   "expert": {
+    "score": 0.635,
+    "org": "Reviewed",
+    "title": "Editor's Choice, Best Overall baby monitor",
+    "year": 2025,
+    "source": "https://reviewed.com/baby-monitors"
+   }
   },
   "gid://shopify/Product/9345692336460": {
    "brand": "Hauck",
@@ -490,6 +533,13 @@
     "score": 0.155,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.714,
+    "org": "Parents Best for Baby",
+    "title": "Best Newborn Bouncer (kaupan tuotekuvauksen mukaan)",
+    "year": 2025,
+    "source": "https://www.naturalbabyshower.co.uk/products/ergobaby-evolve-mesh-baby-bouncer-sage-green"
    }
   },
   "gid://shopify/Product/6801515610190": {
@@ -499,6 +549,13 @@
     "score": 0.109,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.079,
+    "org": "MadeForMums Awards",
+    "title": "Bronze, baby bouncer, swing or seat",
+    "year": 2018,
+    "source": "https://www.madeformums.com/reviews/madeformums-awards-2018-winners-results/"
    }
   },
   "gid://shopify/Product/6885729960014": {
@@ -585,6 +642,13 @@
     "score": 0.395,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.238,
+    "org": "Red Dot",
+    "title": "Red Dot Design Award (e-Priam, sama runko)",
+    "year": 2022,
+    "source": "https://www.red-dot.org/project/e-priam-57022"
    }
   },
   "gid://shopify/Product/15563833082240": {
@@ -704,6 +768,13 @@
     "score": 0.395,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 1.0,
+    "org": "Red Dot",
+    "title": "Red Dot Design Award, Product Design",
+    "year": 2026,
+    "source": "https://www.red-dot.org/project/coya-86929"
    }
   },
   "gid://shopify/Product/15355205550459": {
@@ -713,6 +784,13 @@
     "score": 0.395,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 1.0,
+    "org": "Red Dot",
+    "title": "Red Dot Design Award, Product Design",
+    "year": 2026,
+    "source": "https://www.red-dot.org/project/coya-86929"
    }
   },
   "gid://shopify/Product/15086710456699": {
@@ -731,6 +809,13 @@
     "score": 0.75,
     "source": "Toimituksen arvio (korvautuu Google Trends -datalla)",
     "date": "2026-11-21"
+   },
+   "expert": {
+    "score": 0.556,
+    "org": "Babylist",
+    "title": "Best Vitals Tracking Baby Monitor (Dream Duo)",
+    "year": 2025,
+    "source": "https://www.babylist.com/hello-baby/best-baby-monitors"
    }
   },
   "gid://shopify/Product/15225098043771": {
