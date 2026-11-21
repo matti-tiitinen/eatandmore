@@ -1,0 +1,3 @@
+{
+  "_ohje": "Toimituksen lisäämät arviot tuotetunnisteittain (gid://shopify/Product/...). Jokaisella pitää olla value (1–5), count, source ja date (YYYY-MM-DD). Vain julkaistuja, tarkistettavissa olevia lukuja."
+}
