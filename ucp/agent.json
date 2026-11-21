@@ -1,0 +1,42 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "services": {
+      "dev.ucp.shopping": [
+        {
+          "version": "2026-08-25",
+          "spec": "https://ucp.dev/2026-08-25/specification/overview/",
+          "transport": "embedded",
+          "schema": "https://ucp.dev/2026-08-25/services/shopping/embedded.openrpc.json"
+        }
+      ]
+    },
+    "capabilities": {
+      "dev.ucp.shopping.catalog.search": [
+        { "version": "2026-08-25", "spec": "https://ucp.dev/2026-08-25/specification/overview/" }
+      ],
+      "dev.ucp.shopping.catalog.lookup": [
+        { "version": "2026-08-25", "spec": "https://ucp.dev/2026-08-25/specification/overview/" }
+      ],
+      "dev.ucp.shopping.cart": [
+        { "version": "2026-08-25", "spec": "https://ucp.dev/2026-08-25/specification/overview/" }
+      ],
+      "dev.ucp.shopping.checkout": [
+        {
+          "version": "2026-08-25",
+          "spec": "https://ucp.dev/2026-08-25/specification/shopping/checkout/",
+          "schema": "https://ucp.dev/2026-08-25/schemas/shopping/checkout.json"
+        }
+      ],
+      "dev.ucp.shopping.fulfillment": [
+        {
+          "version": "2026-08-25",
+          "spec": "https://ucp.dev/2026-08-25/specification/shopping/extensions/fulfillment/",
+          "schema": "https://ucp.dev/2026-08-25/schemas/shopping/fulfillment.json",
+          "extends": "dev.ucp.shopping.checkout"
+        }
+      ]
+    },
+    "payment_handlers": {}
+  }
+}
