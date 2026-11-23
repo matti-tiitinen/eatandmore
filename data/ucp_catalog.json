@@ -1,6 +1,6 @@
 {
  "version": 2,
- "fetched": "2026-11-21",
+ "fetched": "2026-11-23",
  "country": "FI",
  "currency": "EUR",
  "categories": [
@@ -242,7 +242,25 @@
    "url": "https://www.hauck.de/products/comfort-n-care-set",
    "available": true,
    "pick": "stroller",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/49122405974348",
+     "label": "Black",
+     "family": "black",
+     "price": 599.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/79c466bcae0444300.jpg?v=1793027278",
+     "url": "https://www.hauck.de/products/comfort-n-care-set"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/49122405941580",
+     "label": "Olive",
+     "family": "green",
+     "price": 599.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/95ab66bcae578891b.jpg?v=1793027284",
+     "url": "https://www.hauck.de/products/comfort-n-care-set"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/14884282696059",
@@ -259,7 +277,57 @@
    "available": true,
    "listPrice": 2018.95,
    "pick": "stroller",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56159623250299",
+     "label": "Cocoa Brown",
+     "family": "brown",
+     "price": 1678.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-fox-5-renew-complete-pushchair-cocoa-brown-flat.jpg?v=1775031104",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-fox-5-renew-complete-pushchair-cocoa-brown"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54938061668731",
+     "label": "Deep Indigo",
+     "family": "blue",
+     "price": 1678.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-fox-5-complete-pushchair-deep-indigo-flat.jpg?v=1739265277",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-fox-5-complete-pushchair-deep-indigo"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54938061767035",
+     "label": "Desert Taupe Melange",
+     "family": "beige",
+     "price": 1678.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-fox-5-complete-pushchair-desert-taupe-melange-flat.jpg?v=1739407727",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-fox-5-complete-pushchair-desert-taupe-melange"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56159623283067",
+     "label": "Fern Green",
+     "family": "green",
+     "price": 1678.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-fox-5-renew-complete-pushchair-fern-green-flat.jpg?v=1775031089",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-fox-5-renew-complete-pushchair-fern-green"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55666585338235",
+     "label": "Forest Green",
+     "family": "green",
+     "price": 1678.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-fox-5-renew-forest-green-flat.jpg?v=1757072078",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-fox-5-renew-complete-pushchair-forest-green"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54938061865339",
+     "label": "Heritage Black",
+     "family": "black",
+     "price": 1678.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-fox-5-complete-pushchair-heritage-black-flat_867c7dee-6acd-4179-863e-0ead9480f54f.jpg?v=1739266482",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-fox-5-complete-pushchair-heritage-black"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15355205681531",
@@ -275,7 +343,33 @@
    "url": "https://www.naturalbabyshower.co.uk/products/cybex-e-priam-comfort-pushchair-foldable-carrycot-sepia-black-black",
    "available": true,
    "pick": "stroller",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56147932578171",
+     "label": "Cozy Beige/Black",
+     "family": "beige",
+     "price": 2938.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-e-priam-comofrt-pushchair-foldable-carrycot-cozy-beige-black-flat-12.jpg?v=1773961821",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-e-priam-comfort-pushchair-foldable-carrycot-cozy-beige-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56147932348795",
+     "label": "Sepia Black/Black",
+     "family": "black",
+     "price": 2938.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-e-priam-comofrt-pushchair-foldable-carrycot-sepai-black-black-flat-13.jpg?v=1773914596",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-e-priam-comfort-pushchair-foldable-carrycot-sepia-black-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56147932479867",
+     "label": "Sepia Black/Rose Gold",
+     "family": "black",
+     "price": 3030.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-e-priam-comofrt-pushchair-foldable-carrycot-sepai-black-rose-gold-flat-13.jpg?v=1773961813",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-e-priam-comfort-pushchair-foldable-carrycot-sepia-black-rose-gold"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15583210176896",
@@ -290,6 +384,48 @@
    "price": 949.0,
    "url": "https://www.inglesina.com/fi-fi/products/system-quattro-electa",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/57478088098176",
+     "label": "Garage Grey - Runko",
+     "family": "grey",
+     "price": 1049.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/electa-system-quattro-darwin-recline-garage-grey-overview.jpg?v=1772036345",
+     "url": "https://www.inglesina.com/fi-fi/products/system-quattro-electa"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57478087770496",
+     "label": "Hangar Beige - Runko",
+     "family": "beige",
+     "price": 1049.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/electa-system-quattro-darwin-recline-hangar-beige-overview.jpg?v=1772036345",
+     "url": "https://www.inglesina.com/fi-fi/products/system-quattro-electa"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57478087901568",
+     "label": "Loft Green - Runko",
+     "family": "green",
+     "price": 1049.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/electa-system-quattro-darwin-recline-loft-green-overview.jpg?v=1772036345",
+     "url": "https://www.inglesina.com/fi-fi/products/system-quattro-electa"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57478087967104",
+     "label": "Rooftop Blue - Runko",
+     "family": "blue",
+     "price": 1049.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/electa-system-quattro-darwin-rooftop-blue-overview.jpg?v=1772036345",
+     "url": "https://www.inglesina.com/fi-fi/products/system-quattro-electa"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57478088032640",
+     "label": "Studio Grey - Runko",
+     "family": "grey",
+     "price": 1049.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/electa-system-quattro-darwin-recline-studio-grey-overview.jpg?v=1772036345",
+     "url": "https://www.inglesina.com/fi-fi/products/system-quattro-electa"
+    }
+   ],
    "candidateFor": "stroller"
   },
   {
@@ -305,6 +441,64 @@
    "price": 1399.0,
    "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/43752693891339",
+     "label": "Outdoor Black",
+     "family": "black",
+     "price": 1399.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/28706.jpg?v=1789634412",
+     "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/44506579042571",
+     "label": "Outdoor Brown",
+     "family": "brown",
+     "price": 1399.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/28708.jpg?v=1789634290",
+     "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/46566720241931",
+     "label": "Outdoor Dark Navy",
+     "family": "blue",
+     "price": 1399.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/28705.jpg?v=1789634530",
+     "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/43752693924107",
+     "label": "Outdoor Green",
+     "family": "green",
+     "price": 1399.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/28707.jpg?v=1789634350",
+     "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/46482109726987",
+     "label": "Urban Black",
+     "family": "black",
+     "price": 1399.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/28713.jpg?v=1789634591",
+     "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/46482109628683",
+     "label": "Urban Dune",
+     "family": "beige",
+     "price": 1399.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/28711.jpg?v=1789634650",
+     "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/46482109661451",
+     "label": "Urban Green",
+     "family": "green",
+     "price": 1399.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/28712.jpg?v=1789634711",
+     "url": "https://emmaljunga.com/fi-fi/products/sento-pro-flat"
+    }
+   ],
    "candidateFor": "stroller"
   },
   {
@@ -321,6 +515,40 @@
    "url": "https://easywalker.com/products/harvey-nxt",
    "available": true,
    "listPrice": 899.99,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55746334064964",
+     "label": "Deep Blue",
+     "family": "blue",
+     "price": 749.99,
+     "image": "https://cdn.shopify.com/s/files/1/0260/1749/7140/files/Harvey_NXT_-_DB_-_carrycot_-_side_view.png?v=1759995654",
+     "url": "https://easywalker.com/products/harvey-nxt"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55746333966660",
+     "label": "Eclipse Black",
+     "family": "black",
+     "price": 749.99,
+     "image": "https://cdn.shopify.com/s/files/1/0260/1749/7140/files/Harvey_NXT_-_EB_-_carrycot_-_side_view.png?v=1761322122",
+     "url": "https://easywalker.com/products/harvey-nxt"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55746333999428",
+     "label": "Mocha Brown",
+     "family": "brown",
+     "price": 749.99,
+     "image": "https://cdn.shopify.com/s/files/1/0260/1749/7140/files/Harvey_NXT_-_MB_-_carrycot_-_side_view.png?v=1761322122",
+     "url": "https://easywalker.com/products/harvey-nxt"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55746334032196",
+     "label": "Moss Green",
+     "family": "green",
+     "price": 749.99,
+     "image": "https://cdn.shopify.com/s/files/1/0260/1749/7140/files/Harvey_NXT_-_MG_-_carrycot_-_side_view_6c68eeea-6645-497e-a795-8e71b5e8bf47.png?v=1776430736",
+     "url": "https://easywalker.com/products/harvey-nxt"
+    }
+   ],
    "candidateFor": "stroller"
   },
   {
@@ -336,6 +564,40 @@
    "price": 734.0,
    "url": "https://bumprider.com/products/connect-mini-newborn-bundle",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55442348343629",
+     "label": "Black",
+     "family": "black",
+     "price": 734.0,
+     "image": "https://cdn.shopify.com/s/files/1/0614/4321/1496/files/Connect-Mini-Newborn-Black-Bundle.png?v=1795079153",
+     "url": "https://bumprider.com/products/connect-mini-newborn-bundle"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55442348441933",
+     "label": "Forest Green",
+     "family": "green",
+     "price": 734.0,
+     "image": "https://cdn.shopify.com/s/files/1/0614/4321/1496/files/Connect-Mini-Newborn-ForestGreen-Bundle.png?v=1795079153",
+     "url": "https://bumprider.com/products/connect-mini-newborn-bundle"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55442348409165",
+     "label": "Italian Plum",
+     "family": "pink",
+     "price": 734.0,
+     "image": "https://cdn.shopify.com/s/files/1/0614/4321/1496/files/Connect-Mini-Newborn-ItalianPlum-Bundle.png?v=1795079154",
+     "url": "https://bumprider.com/products/connect-mini-newborn-bundle"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55442348376397",
+     "label": "Taupe",
+     "family": "beige",
+     "price": 734.0,
+     "image": "https://cdn.shopify.com/s/files/1/0614/4321/1496/files/Connect-Mini-Newborn-Taupe-Bundle.png?v=1795078354",
+     "url": "https://bumprider.com/products/connect-mini-newborn-bundle"
+    }
+   ],
    "candidateFor": "stroller"
   },
   {
@@ -353,7 +615,33 @@
    "available": true,
    "listPrice": 183.95,
    "pick": "lampopussi",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/41912819286094",
+     "label": "Beige",
+     "family": "beige",
+     "price": 156.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-gold-footmuff-beige-flat.jpg?v=1731568406",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-gold-footmuff-beige"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/41912819122254",
+     "label": "Black",
+     "family": "black",
+     "price": 156.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-gold-footmuff-black-flat-3.jpg?v=1731489107",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-gold-footmuff-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/41912819155022",
+     "label": "Stormy Blue",
+     "family": "blue",
+     "price": 156.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-gold-footmuff-stormy-blue-flat-3.jpg?v=1731568394",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-gold-footmuff-stormy-blue"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15270130450811",
@@ -370,7 +658,25 @@
    "available": true,
    "listPrice": 218.95,
    "pick": "lampopussi",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55855062450555",
+     "label": "Black",
+     "family": "black",
+     "price": 185.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/voksi-explorer-footmuff-black-flat.jpg?v=1761271680",
+     "url": "https://www.naturalbabyshower.co.uk/products/voksi-explorer-footmuff-black-2025"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55855062352251",
+     "label": "Meadow Green",
+     "family": "green",
+     "price": 185.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/voksi-explorer-footmuff-meadow-green-flat.jpg?v=1761271677",
+     "url": "https://www.naturalbabyshower.co.uk/products/voksi-explorer-footmuff-meadow-green-2025"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6621275652174",
@@ -387,7 +693,17 @@
    "available": true,
    "listPrice": 238.95,
    "pick": "lampopussi",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39426816540750",
+     "label": "Midnight Black",
+     "family": "black",
+     "price": 202.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-footmuff-midnight-black-flat-7.jpg?v=1723707121",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-footmuff-midnight-black-2021"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/9345693679948",
@@ -403,7 +719,17 @@
    "url": "https://www.hauck.de/products/drive-n-care",
    "available": true,
    "pick": "infantseat",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/49122409021772",
+     "label": "Black",
+     "family": "black",
+     "price": 179.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/0a7466260a0dbfe47.jpg?v=1793027345",
+     "url": "https://www.hauck.de/products/drive-n-care"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15365299241344",
@@ -419,7 +745,89 @@
    "url": "https://www.inglesina.com/fi-fi/products/darwin-infant",
    "available": true,
    "pick": "infantseat",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56771194192256",
+     "label": "Canyon Grey",
+     "family": "grey",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-canyon-grey-2026.jpg?v=1772551938",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57514280747392",
+     "label": "Crystal Grey",
+     "family": "grey",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-crystal-grey.jpg?v=1772551939",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57514280780160",
+     "label": "Essence Mokka",
+     "family": "brown",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-essence-mokka.jpg?v=1772551939",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57514280649088",
+     "label": "Himalaya Blue ",
+     "family": "blue",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-himalaya-green-2026.jpg?v=1772551938",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57514280812928",
+     "label": "Ivy Green",
+     "family": "green",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-ivy-green.jpg?v=1772551938",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56771194257792",
+     "label": "Magnet Grey",
+     "family": "grey",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-magnet-grey-2026.jpg?v=1772552096",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57514280845696",
+     "label": "Marble Grey",
+     "family": "grey",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/aptica-system-quattro-marble-grey-carseat-infant.jpg?v=1772030041",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57514280681856",
+     "label": "Sapphire Blue",
+     "family": "blue",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-sapphire-blue.jpg?v=1772551939",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56771194225024",
+     "label": "Taiga Green",
+     "family": "green",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-taiga-green-2026.jpg?v=1772551938",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57514280714624",
+     "label": "Vicuna Beige",
+     "family": "beige",
+     "price": 229.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-vicuna-beige.jpg?v=1772551939",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6869812150350",
@@ -441,7 +849,25 @@
     "org": "ADAC",
     "grade": "1,7",
     "when": "syksy 2023 (Base T -jalustalla)"
-   }
+   },
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40236844580942",
+     "label": "Sepia Black",
+     "family": "black",
+     "price": 288.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-cloud-t-sepia-black-flat-8.jpg?v=1699483923",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-cloud-t-i-size-car-seat-sepia-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/40236844515406",
+     "label": "Mirage Grey",
+     "family": "grey",
+     "price": 293.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-cloud-t-mirage-grey-flat-9.jpg?v=1699483891",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-cloud-t-i-size-car-seat-mirage-grey"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15397224382848",
@@ -458,7 +884,33 @@
    "available": true,
    "listPrice": 399.0,
    "pick": "toddlerseat",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56771309830528",
+     "label": "Moon Grey",
+     "family": "grey",
+     "price": 339.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/copernico-moon-grey.jpg?v=1761745534",
+     "url": "https://www.inglesina.com/fi-fi/products/copernico"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56771309797760",
+     "label": "Stone Grey",
+     "family": "grey",
+     "price": 339.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/copernico-stone-grey.jpg?v=1761745534",
+     "url": "https://www.inglesina.com/fi-fi/products/copernico"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56771309863296",
+     "label": "Vulcan Black",
+     "family": "black",
+     "price": 339.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/copernico-vulcan-black.jpg?v=1761745534",
+     "url": "https://www.inglesina.com/fi-fi/products/copernico"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6867616432206",
@@ -480,7 +932,17 @@
     "org": "ADAC",
     "grade": "2,4",
     "when": "syksy 2025"
-   }
+   },
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40229516345422",
+     "label": "Sepia Black",
+     "family": "black",
+     "price": 420.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-sirona-t-car-seat-plus-sepia-black-flat_0996ce70-6c3b-4e20-ae30-fad328c6096e.jpg?v=1699482919",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-sirona-t-i-size-car-seat-sepia-black"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15230401905019",
@@ -497,7 +959,57 @@
    "available": true,
    "listPrice": 696.95,
    "pick": "toddlerseat",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55730250908027",
+     "label": "Dark Grey Mélange",
+     "family": "grey",
+     "price": 549.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/besafe-beyond-360-car-seat-dark-grey-melange-flat-8.jpg?v=1759920805",
+     "url": "https://www.naturalbabyshower.co.uk/products/besafe-beyond-2-360-car-seat-dark-grey-melange"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55730250875259",
+     "label": "Fresh Black Cab",
+     "family": "black",
+     "price": 549.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/besafe-beyond-360-car-seat-fresh-black-cab-flat-11.jpg?v=1760004897",
+     "url": "https://www.naturalbabyshower.co.uk/products/besafe-beyond-2-360-car-seat-fresh-black-cab"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55730250711419",
+     "label": "Anthracite Mesh",
+     "family": "grey",
+     "price": 595.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/besafe-beyond-360-car-seat-anthracite-mesh-flat-6.jpg?v=1759920806",
+     "url": "https://www.naturalbabyshower.co.uk/products/besafe-beyond-2-360-car-seat-anthracite-mesh"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55730250776955",
+     "label": "Black Softbreeze",
+     "family": "black",
+     "price": 595.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/besafe-beyond-360-car-seat-black-soft-breeze-flat-7.jpg?v=1760004864",
+     "url": "https://www.naturalbabyshower.co.uk/products/besafe-beyond-2-360-car-seat-black-softbreeze"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55730251071867",
+     "label": "Dark Sand Softbreeze",
+     "family": "beige",
+     "price": 595.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/besafe-beyond-360-car-seat-dark-sand-soft-breeze-flat-10.jpg?v=1760004988",
+     "url": "https://www.naturalbabyshower.co.uk/products/besafe-beyond-2-360-car-seat-dark-sand-softbreeze"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55730250744187",
+     "label": "Green Softbreeze",
+     "family": "green",
+     "price": 595.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/besafe-beyond-360-car-seat-green-soft-breeze-flat-10.jpg?v=1792363876",
+     "url": "https://www.naturalbabyshower.co.uk/products/besafe-beyond-2-360-car-seat-green-softbreeze"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15397243486592",
@@ -512,6 +1024,16 @@
    "price": 329.0,
    "url": "https://www.inglesina.com/fi-fi/products/darwin-next-stage",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56771356361088",
+     "label": "Vulcan Black",
+     "family": "black",
+     "price": 329.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-next-stage-vulcan-black.jpg?v=1761744810",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-next-stage"
+    }
+   ],
    "candidateFor": "toddlerseat"
   },
   {
@@ -528,7 +1050,33 @@
    "url": "https://www.inglesina.com/fi-fi/products/front",
    "available": true,
    "pick": "carrier",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56776671789440",
+     "label": "Blue",
+     "family": "blue",
+     "price": 79.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/front-blue.jpg?v=1761742194",
+     "url": "https://www.inglesina.com/fi-fi/products/front"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56776690598272",
+     "label": "Denim",
+     "family": "blue",
+     "price": 79.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/front-denim.jpg?v=1761742194",
+     "url": "https://www.inglesina.com/fi-fi/products/front"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56776690565504",
+     "label": "Vaaleanharmaa",
+     "family": "grey",
+     "price": 79.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/front-light-grey.jpg?v=1761742194",
+     "url": "https://www.inglesina.com/fi-fi/products/front"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/9399116333386",
@@ -544,7 +1092,17 @@
    "url": "https://fidella.org/products/fusion-full-buckle-baby-carrier-feather-rose",
    "available": true,
    "pick": "carrier",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/48915091882314",
+     "label": "rose",
+     "family": "pink",
+     "price": 139.95,
+     "image": "https://cdn.shopify.com/s/files/1/0669/3181/8809/files/03-F-FU-B-FE-RO-0914.jpg?v=1721906322",
+     "url": "https://fidella.org/products/fusion-full-buckle-baby-carrier-feather-rose"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/10233207750944",
@@ -560,7 +1118,49 @@
    "url": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier",
    "available": true,
    "pick": "carrier",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/51332179919136",
+     "label": "Midnight Blue",
+     "family": "blue",
+     "price": 219.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCODMMIDBLU_ergobaby_carrier_omni_deluxe_mesh_midblu_2_3f55689f-2352-43e4-998e-359cc9b3d0b5.webp?v=1775511626",
+     "url": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51332179951904",
+     "label": "Natural Beige",
+     "family": "beige",
+     "price": 219.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCODMNATBGE_ergobaby_carrier_omni_deluxe_mesh_natbge_2_8a61f5ab-c8e1-424d-8f07-c36739fd9b5d.webp?v=1775511626",
+     "url": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51332179820832",
+     "label": "Onyx Black",
+     "family": "black",
+     "price": 219.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCODMONYX_ergobaby_carrier_omni_deluxe_mesh_onyx_2_22fff03d-149c-44ed-8e1e-e0b835a63bb3.webp?v=1775511626",
+     "url": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51332179984672",
+     "label": "Pearl Grey",
+     "family": "grey",
+     "price": 219.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCODMPRLGRY_ergobaby_carrier_omni_deluxe_mesh_prlgry_2_3bf735d6-2252-46b5-969a-3e9c96c4e4af.webp?v=1775511301",
+     "url": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51332180017440",
+     "label": "Soft Olive",
+     "family": "green",
+     "price": 219.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCODMSFTOLV_ergobaby_carrier_omni_deluxe_mesh_sftolv_2_ce41cb63-cd10-4e68-99bf-4f1060ac0074.webp?v=1775511626",
+     "url": "https://ergobaby.com/en-eu/products/omni-deluxe-baby-carrier"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/10231031726368",
@@ -575,6 +1175,40 @@
    "price": 99.9,
    "url": "https://ergobaby.com/en-eu/products/embrace-newborn-carrier",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/51326141464864",
+     "label": "Heather Grey",
+     "family": "grey",
+     "price": 99.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCEMAGRY_ergobaby_carrier_knit_embrace_gry_P01_front_31bf0188-6bfd-4a76-9a1a-056c69420ce5.webp?v=1775510850",
+     "url": "https://ergobaby.com/en-eu/products/embrace-newborn-carrier"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51326141595936",
+     "label": "Oxford Blue",
+     "family": "blue",
+     "price": 99.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCEMAOXBLU_ergobaby_carrier_knit_embrace_oxblu_P01_front.webp?v=1775510855",
+     "url": "https://ergobaby.com/en-eu/products/embrace-newborn-carrier"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51326141628704",
+     "label": "Pure Black",
+     "family": "black",
+     "price": 99.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCEMABLK_ergobaby_carrier_knit_embrace_blk_P01_front.webp?v=1775510850",
+     "url": "https://ergobaby.com/en-eu/products/embrace-newborn-carrier"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51326141694240",
+     "label": "Soft Olive",
+     "family": "green",
+     "price": 99.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/BCEMAOLIVE_ergobaby_carrier_knit_embrace_sftolv_P01_front.webp?v=1775510855",
+     "url": "https://ergobaby.com/en-eu/products/embrace-newborn-carrier"
+    }
+   ],
    "candidateFor": "carrier"
   },
   {
@@ -591,7 +1225,57 @@
    "url": "https://www.hauck.de/products/alpha",
    "available": true,
    "pick": "highchair",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/53539488596300",
+     "label": "Black",
+     "family": "black",
+     "price": 109.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/a847636cb3fe7928e_18b6401c-409b-4147-a1d3-ef7019f344af.jpg?v=1793028122",
+     "url": "https://www.hauck.de/products/alpha"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48444024881484",
+     "label": "Grey",
+     "family": "grey",
+     "price": 109.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/a8276372124f307ea.jpg?v=1793026356",
+     "url": "https://www.hauck.de/products/alpha"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48444024947020",
+     "label": "Mint",
+     "family": "green",
+     "price": 109.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/a17d636cb50607dce.jpg?v=1793026363",
+     "url": "https://www.hauck.de/products/alpha"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48444024783180",
+     "label": "Natural",
+     "family": "beige",
+     "price": 109.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/fa63637213c829980.jpg?v=1793026334",
+     "url": "https://www.hauck.de/products/alpha"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48444024848716",
+     "label": "Walnut",
+     "family": "brown",
+     "price": 109.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/1e096214e5ddb0aa9.jpg?v=1793026349",
+     "url": "https://www.hauck.de/products/alpha"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48444024815948",
+     "label": "White",
+     "family": "white",
+     "price": 109.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/93486372148945120.jpg?v=1793026327",
+     "url": "https://www.hauck.de/products/alpha"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15397521916288",
@@ -607,7 +1291,41 @@
    "url": "https://www.inglesina.com/fi-fi/products/my-time",
    "available": true,
    "pick": "highchair",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56772787372416",
+     "label": "Butter",
+     "family": "beige",
+     "price": 209.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/my-time-butter.jpg?v=1761742493",
+     "url": "https://www.inglesina.com/fi-fi/products/my-time"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56772787405184",
+     "label": "Mint",
+     "family": "green",
+     "price": 209.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/my-time-mint.jpg?v=1761742493",
+     "url": "https://www.inglesina.com/fi-fi/products/my-time"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56772787437952",
+     "label": "Pepper",
+     "family": "black",
+     "price": 209.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/my-time-pepper.jpg?v=1761742493",
+     "url": "https://www.inglesina.com/fi-fi/products/my-time"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56772787470720",
+     "label": "Sugar",
+     "family": "white",
+     "price": 209.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/my-time-sugar.jpg?v=1761742493",
+     "url": "https://www.inglesina.com/fi-fi/products/my-time"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/4733282943054",
@@ -624,7 +1342,65 @@
    "available": true,
    "listPrice": 420.95,
    "pick": "highchair",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/53529115558267",
+     "label": "Black",
+     "family": "black",
+     "price": 365.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-tripp-trapp-black-flat_a0741b72-7857-46db-98dc-d90bc0aadf36.jpg?v=1776245127",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-tripp-trapp-highchair-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/53529284510075",
+     "label": "Glacier Green",
+     "family": "green",
+     "price": 365.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-tripp-trapp-glacier-green-flat_58b4d988-a275-460c-affe-6c3415405f76.jpg?v=1776293425",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-tripp-trapp-highchair-glacier-green"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54982240895355",
+     "label": "Heather Mauve",
+     "family": "pink",
+     "price": 365.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-tripp-trapp-heather-mauve-flat_4895160e-de63-4dec-9f98-e439f94e2b56.jpg?v=1776294523",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-tripp-trapp-highchair-heather-mauve"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/53529268191611",
+     "label": "Natural",
+     "family": "beige",
+     "price": 365.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-tripp-trapp-natural-flat_09e95e74-f7e3-455b-8845-cfdb9d5be826.jpg?v=1776293065",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-tripp-trapp-highchair-natural"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55528367161723",
+     "label": "Warm Brown",
+     "family": "brown",
+     "price": 365.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-tripp-trapp-warm-brown-flat_ea80deed-8b3c-459f-821c-d85e8f02ca46.jpg?v=1776294838",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-tripp-trapp-highchair-beech-warm-brown"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/53529277104507",
+     "label": "Oak Natural",
+     "family": "beige",
+     "price": 402.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-tripp-trapp-oak-natural-flat_d172c00c-2ef7-4492-aea9-e18214f47ba5.jpg?v=1776293077",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-tripp-trapp-highchair-oak-natural"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/53529276121467",
+     "label": "Oak Warm Brown",
+     "family": "brown",
+     "price": 402.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-tripp-trapp-oak-warm-brown-flat_51ae4231-f179-4665-bd90-1d52a65ca108.jpg?v=1776294014",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-tripp-trapp-highchair-warm-brown"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6949892849713",
@@ -672,7 +1448,17 @@
    "url": "https://donebydeer.com/en-fi/products/nursing-baby-pillow-elphee-sand",
    "available": true,
    "pick": "imetystyyny",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39939508895787",
+     "label": "Sand",
+     "family": "beige",
+     "price": 89.95,
+     "image": "https://cdn.shopify.com/s/files/1/0565/6808/6571/products/Nursing-and-baby-pillow-Elphee-Sand-Front-1.jpg?v=1648564624",
+     "url": "https://donebydeer.com/en-fi/products/nursing-baby-pillow-elphee-sand"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15275209097595",
@@ -689,7 +1475,49 @@
    "available": true,
    "listPrice": 156.95,
    "pick": "imetystyyny",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/32790865150030",
+     "label": "Blue Melange",
+     "family": "blue",
+     "price": 124.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bbhugme-nursing-pillow-blue-melange-flat.jpg?v=1768818031",
+     "url": "https://www.naturalbabyshower.co.uk/products/bbhugme-nursing-pillow-blue-melange"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55871837798779",
+     "label": "Hazel Brown",
+     "family": "brown",
+     "price": 124.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bbhugme-hazel-brown-nursing-pillow-flat.jpg?v=1768864300",
+     "url": "https://www.naturalbabyshower.co.uk/products/bbhugme-nursing-pillow-hazel-brown"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/32790865051726",
+     "label": "Pink Melange",
+     "family": "pink",
+     "price": 124.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bbhugme-nursing-pillow-pink-melange-flat.jpg?v=1768818189",
+     "url": "https://www.naturalbabyshower.co.uk/products/bbhugme-nursing-pillow-pink-melange"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55871837929851",
+     "label": "Seashell Beige",
+     "family": "beige",
+     "price": 124.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bbhugme-seashell-beige-nursing-pillow-flat.jpg?v=1768864314",
+     "url": "https://www.naturalbabyshower.co.uk/products/bbhugme-nursing-pillow-seashell-beige"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55871837864315",
+     "label": "Soft White",
+     "family": "white",
+     "price": 124.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bbhugme-soft-white-nursing-pillow-flat.jpg?v=1768864306",
+     "url": "https://www.naturalbabyshower.co.uk/products/bbhugme-nursing-pillow-soft-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6863252684878",
@@ -723,7 +1551,33 @@
    "available": true,
    "listPrice": 33.95,
    "pick": "pullot",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40100136452174",
+     "label": "Blush",
+     "family": "pink",
+     "price": 23.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bibs-baby-glass-bottle-blush-flat-2.jpg?v=1761266193",
+     "url": "https://www.naturalbabyshower.co.uk/products/bibs-baby-glass-bottle-complete-set-blush-latex"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/40100136616014",
+     "label": "Sage",
+     "family": "green",
+     "price": 26.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/bibs-baby-glass-bottle-sage-latex-flat.jpg?v=1699458499",
+     "url": "https://www.naturalbabyshower.co.uk/products/bibs-baby-glass-bottle-complete-set-sage-latex"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/40100136681550",
+     "label": "Ivory",
+     "family": "beige",
+     "price": 27.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/bibs-baby-glass-bottle-ivory-latex-flat.jpg?v=1699458505",
+     "url": "https://www.naturalbabyshower.co.uk/products/bibs-baby-glass-bottle-complete-set-ivory-latex"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15066246054267",
@@ -774,7 +1628,17 @@
    "available": true,
    "listPrice": 165.95,
    "pick": "rintapumppu",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55713907966331",
+     "label": "White",
+     "family": "white",
+     "price": 132.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/momcozy-m5-wearable-electric-breast-pump-flat.jpg?v=1757426621",
+     "url": "https://www.naturalbabyshower.co.uk/products/momcozy-m5-wearable-electric-breast-pump-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/3705947979854",
@@ -807,7 +1671,17 @@
    "url": "https://donebydeer.com/en-fi/products/foodie-weaning-set-tiny-farm-powder",
    "available": true,
    "pick": "ruokailu",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/58564702470488",
+     "label": "Blue",
+     "family": "blue",
+     "price": 24.95,
+     "image": "https://cdn.shopify.com/s/files/1/0565/6808/6571/files/1566022_1.jpg?v=1790339006",
+     "url": "https://donebydeer.com/en-fi/products/foodie-weaning-set-tiny-farm-blue"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15099615674747",
@@ -875,7 +1749,25 @@
    "available": true,
    "listPrice": 321.95,
    "pick": "sanky",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56198780551547",
+     "label": "Whisper Grey",
+     "family": "grey",
+     "price": 229.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/silver-cross-lunar-whisper-grey-flat_13606d41-aa9b-47f7-98cb-78bdd32d6601.jpg?v=1776783341",
+     "url": "https://www.naturalbabyshower.co.uk/products/silver-cross-lunar-bedside-crib-whisper-grey"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/41514980147278",
+     "label": "Oatmeal",
+     "family": "beige",
+     "price": 266.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/silver-cross-lunar-oatmeal-flat.jpg?v=1776783277",
+     "url": "https://www.naturalbabyshower.co.uk/products/silver-cross-lunar-bedside-crib-oatmeal"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/14901957624187",
@@ -891,7 +1783,49 @@
    "url": "https://www.naturalbabyshower.co.uk/products/snuzpod-5-bedside-crib-natural",
    "available": true,
    "pick": "sanky",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/54995786137979",
+     "label": "Cashmere",
+     "family": "beige",
+     "price": 367.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/snuzpod-5-bedside-crib-cashmere-flat.jpg?v=1740555194",
+     "url": "https://www.naturalbabyshower.co.uk/products/snuzpod-5-bedside-crib-cashmere"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56112980197755",
+     "label": "Chocolate",
+     "family": "brown",
+     "price": 367.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/snuzpod-5-bedside-crib-chocolate-flat.jpg?v=1774455471",
+     "url": "https://www.naturalbabyshower.co.uk/products/snuzpod-5-bedside-crib-chocolate"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54995786170747",
+     "label": "Mocha",
+     "family": "brown",
+     "price": 367.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/snuzpod-5-bedside-crib-cmocha-flat.jpg?v=1740555227",
+     "url": "https://www.naturalbabyshower.co.uk/products/snuzpod-5-bedside-crib-mocha"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54995786236283",
+     "label": "Natural",
+     "family": "beige",
+     "price": 367.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/snuzpod-5-bedside-crib-natural-flat.jpg?v=1740555242",
+     "url": "https://www.naturalbabyshower.co.uk/products/snuzpod-5-bedside-crib-natural"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54995786072443",
+     "label": "Pebble",
+     "family": "grey",
+     "price": 367.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/snuzpod-5-bedside-crib-pebble-flat.jpg?v=1740555164",
+     "url": "https://www.naturalbabyshower.co.uk/products/snuzpod-5-bedside-crib-pebble"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6793593847921",
@@ -923,7 +1857,17 @@
    "url": "https://camcamcopenhagen.com/products/sheet-fitted-60x120x15cm-gots-off-white",
    "available": true,
    "pick": "lakanat",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/54358274212184",
+     "label": "Off White",
+     "family": "white",
+     "price": 22.5,
+     "image": "https://cdn.shopify.com/s/files/1/1554/3051/files/5712805145712.jpg?v=1739869844",
+     "url": "https://camcamcopenhagen.com/products/sheet-fitted-60x120x15cm-gots-off-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15205719769467",
@@ -1007,7 +1951,25 @@
    "available": true,
    "listPrice": 549.95,
    "pick": "halytin",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56287999394171",
+     "label": "Black",
+     "family": "black",
+     "price": 330.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/Nanit-Pro-Baby-Monitor-_-Wall-Mount---Black-1.jpg?v=1781139579",
+     "url": "https://www.naturalbabyshower.co.uk/products/nanit-pro-baby-monitor-wall-mount-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/40441700057166",
+     "label": "White",
+     "family": "white",
+     "price": 384.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/nanit-pro-baby-monitor-wall-mount-white-flat.jpg?v=1790287606",
+     "url": "https://www.naturalbabyshower.co.uk/products/nanit-pro-baby-monitor-wall-mount-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/9345692336460",
@@ -1023,7 +1985,33 @@
    "url": "https://www.hauck.de/products/dream-n-play-plus-1",
    "available": true,
    "pick": "matkasanky",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/52771981787468",
+     "label": "Dusty Blue",
+     "family": "blue",
+     "price": 69.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/7686652c04cd0251f.jpg?v=1793027738",
+     "url": "https://www.hauck.de/products/dream-n-play-plus-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/52769518551372",
+     "label": "Dusty Cork",
+     "family": "brown",
+     "price": 69.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/0ea6655f6e92d9834_f6b4ec6a-a96e-4830-90d0-4a9b826bf4e7.jpg?v=1793027579",
+     "url": "https://www.hauck.de/products/dream-n-play-plus-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/52769518584140",
+     "label": "Dusty Mint",
+     "family": "green",
+     "price": 69.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/b49b655f6f521da47_4cc9043d-d4b4-4211-b8c8-54a1d4c713e8.jpg?v=1793027602",
+     "url": "https://www.hauck.de/products/dream-n-play-plus-1"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15373224051067",
@@ -1040,7 +2028,25 @@
    "available": true,
    "listPrice": 183.95,
    "pick": "matkasanky",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56215918313851",
+     "label": "Elegance Beige",
+     "family": "beige",
+     "price": 165.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/maxi-cosi-merlin-travel-cot-elegant-beige-flat-5.jpg?v=1782866534",
+     "url": "https://www.naturalbabyshower.co.uk/products/maxi-cosi-merlin-travel-cot-elegance-beige"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56215918346619",
+     "label": "Elegance Graphite",
+     "family": "grey",
+     "price": 165.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/maxi-cosi-merlin-travel-cot-elegant-graphite-flat-7.jpg?v=1782808346",
+     "url": "https://www.naturalbabyshower.co.uk/products/maxi-cosi-merlin-travel-cot-elegance-graphite"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/4614499139662",
@@ -1057,7 +2063,25 @@
    "available": true,
    "listPrice": 367.95,
    "pick": "matkasanky",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40254819893326",
+     "label": "Black",
+     "family": "black",
+     "price": 312.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/BabyBjorn-Travel-Cot-Light---Black-2.jpg?v=1699382361",
+     "url": "https://www.naturalbabyshower.co.uk/products/babybjorn-travel-cot-light-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/40254820417614",
+     "label": "Silver",
+     "family": "grey",
+     "price": 312.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/BabyBjorn-Travel-Cot-Light---Silver.jpg?v=1699382365",
+     "url": "https://www.naturalbabyshower.co.uk/products/babybjorn-travel-cot-light-silver"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15397442257280",
@@ -1071,7 +2095,33 @@
    "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/welcome-pod-warm-beige.jpg?v=1772556094",
    "price": 139.0,
    "url": "https://www.inglesina.com/fi-fi/products/welcome-pod",
-   "available": true
+   "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56772554326400",
+     "label": "Delicate Pink",
+     "family": "pink",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/welcome-pod-delicate-pink.jpg?v=1772546859",
+     "url": "https://www.inglesina.com/fi-fi/products/welcome-pod"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56772554424704",
+     "label": "Quiet Beige",
+     "family": "beige",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/welcome-pod-quiet-beige.jpg?v=1772556094",
+     "url": "https://www.inglesina.com/fi-fi/products/welcome-pod"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57513763733888",
+     "label": "Warm Beige",
+     "family": "beige",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/welcome-pod-warm-beige.jpg?v=1772556094",
+     "url": "https://www.inglesina.com/fi-fi/products/welcome-pod"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/8769288831320",
@@ -1085,7 +2135,49 @@
    "image": "https://cdn.shopify.com/s/files/1/1554/3051/files/761_Baby_Nest_P84_Dreamland.jpg?v=1693216097",
    "price": 107.0,
    "url": "https://camcamcopenhagen.com/products/baby-nest-ocs-dreamland",
-   "available": true
+   "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56139261182296",
+     "label": "Blueberries",
+     "family": "blue",
+     "price": 80.25,
+     "image": "https://cdn.shopify.com/s/files/1/1554/3051/files/761-P99-000-WW.jpg?v=1760960849",
+     "url": "https://camcamcopenhagen.com/products/baby-nest-ocs-blueberries"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/47169676116312",
+     "label": "Classic Stripes Blue",
+     "family": "blue",
+     "price": 80.25,
+     "image": "https://cdn.shopify.com/s/files/1/1554/3051/files/761_Baby_Nest_P85_Classic_Stripes_Blue.jpg?v=1693216097",
+     "url": "https://camcamcopenhagen.com/products/baby-nest-ocs-classic-stripes-blue"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/47169676214616",
+     "label": "Classic Stripes Camel",
+     "family": "brown",
+     "price": 80.25,
+     "image": "https://cdn.shopify.com/s/files/1/1554/3051/files/761_Baby_Nest_P88_Classic_Stripes_Camel.jpg?v=1693216116",
+     "url": "https://camcamcopenhagen.com/products/baby-nest-ocs-classic-stripes-camel"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/58446203486552",
+     "label": "Classic Stripes Rose",
+     "family": "pink",
+     "price": 107.0,
+     "image": "https://cdn.shopify.com/s/files/1/1554/3051/files/761_Baby_Nest_P110_Classic_Stripes_Rose.jpg?v=1790169679",
+     "url": "https://camcamcopenhagen.com/products/baby-nest-ocs-classic-stripes-rose"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/58446148993368",
+     "label": "Woodland",
+     "family": "brown",
+     "price": 107.0,
+     "image": "https://cdn.shopify.com/s/files/1/1554/3051/files/761_Baby_Nest_P108_Woodlandb_e8976ead-ed78-4d5f-9e16-3559770517e1.jpg?v=1790169679",
+     "url": "https://camcamcopenhagen.com/products/baby-nest-ocs-woodland"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6904505597994",
@@ -1099,7 +2191,17 @@
    "image": "https://cdn.shopify.com/s/files/1/0984/4880/files/a29udGFpbmVyL25ldy80OTQ5LzExMjQwNjgxdjEucG5n_51c234a5-a0a4-42a0-8a4d-7e16e07e308b.jpg?v=1775735911",
    "price": 80.0,
    "url": "https://www.liewood.com/products/flora-sleeping-bag-tuscany-rose",
-   "available": true
+   "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40449828716586",
+     "label": "Tuscany rose",
+     "family": "pink",
+     "price": 80.0,
+     "image": "https://cdn.shopify.com/s/files/1/0984/4880/files/a29udGFpbmVyL25ldy80OTQ5LzExMjQwNjgxdjEucG5n_51c234a5-a0a4-42a0-8a4d-7e16e07e308b.jpg?v=1775735911",
+     "url": "https://www.liewood.com/products/flora-sleeping-bag-tuscany-rose"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/9112547852637",
@@ -1113,7 +2215,17 @@
    "image": "https://cdn.shopify.com/s/files/1/0541/1527/0826/files/pupu-torkkupeitto-sage-natural-white-peitto-anno-x-metsola-803121.jpg?v=1713446988",
    "price": 49.95,
    "url": "https://metsola.fi/products/pupu-torkkupeitto-sage-natural-white",
-   "available": true
+   "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/50624288915805",
+     "label": "Sage / Natural White",
+     "family": "green",
+     "price": 49.95,
+     "image": "https://cdn.shopify.com/s/files/1/0541/1527/0826/files/pupu-torkkupeitto-sage-natural-white-peitto-anno-x-metsola-803121.jpg?v=1713446988",
+     "url": "https://metsola.fi/products/pupu-torkkupeitto-sage-natural-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6760497676366",
@@ -1130,7 +2242,17 @@
    "available": true,
    "listPrice": 34.95,
    "pick": "hoitoalusta",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39337214279758",
+     "label": "Taupe Spotty",
+     "family": "beige",
+     "price": 29.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/mama-shack-standard-changing-mat-taupe-spotty.jpg?v=1699411964",
+     "url": "https://www.naturalbabyshower.co.uk/products/mama-shack-changing-mat-taupe-spotty"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/14840817549656",
@@ -1146,7 +2268,17 @@
    "url": "https://donebydeer.com/en-fi/products/changing-pad-tiny-farm-sand",
    "available": true,
    "pick": "hoitoalusta",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/54040619778392",
+     "label": "Sand",
+     "family": "beige",
+     "price": 54.95,
+     "image": "https://cdn.shopify.com/s/files/1/0565/6808/6571/files/Changing-pad-Tiny-farm-Sand-Front-PS.webp?v=1736930975",
+     "url": "https://donebydeer.com/en-fi/products/changing-pad-tiny-farm-sand"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6972053028942",
@@ -1163,7 +2295,41 @@
    "available": true,
    "listPrice": 110.95,
    "pick": "hoitoalusta",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40258173468750",
+     "label": "Eucalyptus",
+     "family": "green",
+     "price": 82.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/Shnuggle-squishy-changing-mat-eucalyptus-flat.jpg?v=1699490810",
+     "url": "https://www.naturalbabyshower.co.uk/products/shnuggle-squishy-changing-mat-eucalyptus"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/39847896481870",
+     "label": "Grey",
+     "family": "grey",
+     "price": 82.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/shnuggle-squishy-changing-mat-grey.jpg?v=1699445233",
+     "url": "https://www.naturalbabyshower.co.uk/products/shnuggle-squishy-changing-mat-grey"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56039099236731",
+     "label": "Ivory",
+     "family": "beige",
+     "price": 82.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/shnuggle-squishy-changing-mat-ivory-flat-2.jpg?v=1770164925",
+     "url": "https://www.naturalbabyshower.co.uk/products/shnuggle-squishy-changing-mat-cream-ivory"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/40518107005006",
+     "label": "Taupe",
+     "family": "beige",
+     "price": 82.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/shnuggle-taupe-squicky-mat-flat.jpg?v=1704831500",
+     "url": "https://www.naturalbabyshower.co.uk/products/shnuggle-squishy-changing-mat-taupe"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15283109888379",
@@ -1179,7 +2345,17 @@
    "url": "https://www.naturalbabyshower.co.uk/products/tutti-bambini-universal-cot-top-changer-oak-modena",
    "available": true,
    "pick": "hoitopoyta",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55890717999483",
+     "label": "Oak",
+     "family": "brown",
+     "price": 71.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/tutti-bambini-cot-top-changer-oak-flat.jpg?v=1762430356",
+     "url": "https://www.naturalbabyshower.co.uk/products/tutti-bambini-universal-cot-top-changer-oak-modena"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/10022548341082",
@@ -1211,7 +2387,25 @@
    "url": "https://www.naturalbabyshower.co.uk/products/stokke-sleepi-changing-table-white",
    "available": true,
    "pick": "hoitopoyta",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39945504424014",
+     "label": "Natural",
+     "family": "beige",
+     "price": 549.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-changing-table-natural-flat.jpg?v=1776381050",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-sleepi-changing-table-natural"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/39945504456782",
+     "label": "White",
+     "family": "white",
+     "price": 549.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-changing-table-white-flat.jpg?v=1776381051",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-sleepi-changing-table-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6755922247758",
@@ -1228,7 +2422,33 @@
    "available": true,
    "listPrice": 47.95,
    "pick": "amme",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40180150698062",
+     "label": "Eucalyptus",
+     "family": "green",
+     "price": 35.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/Shnuggle-baby-bath-with-plug-eucalyptus-flat.jpg?v=1699471976",
+     "url": "https://www.naturalbabyshower.co.uk/products/shnuggle-baby-bath-with-plug-eucalyptus"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56270037975419",
+     "label": "Taupe",
+     "family": "beige",
+     "price": 35.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/shnuggle-baby-bath-plug-taupe.jpg?v=1699445201",
+     "url": "https://www.naturalbabyshower.co.uk/products/shnuggle-baby-bath-plug-taupe"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56270037811579",
+     "label": "White + Grey",
+     "family": "grey",
+     "price": 35.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/shnuggle-baby-bath-plug-white-grey-backrest.jpg?v=1699445194",
+     "url": "https://www.naturalbabyshower.co.uk/products/shnuggle-baby-bath-plug-white-grey-backrest"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/4733289332814",
@@ -1245,7 +2465,25 @@
    "available": true,
    "listPrice": 119.95,
    "pick": "amme",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40778763894862",
+     "label": "Sandy Beige",
+     "family": "beige",
+     "price": 90.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-flexi-bath-sandy-beige-flat_c56e3de0-be17-4a8c-aa84-3953a025ddc5.jpg?v=1775130782",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-flexi-bath-bundle-sandy-beige"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/32310313877582",
+     "label": "White",
+     "family": "white",
+     "price": 90.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/Stokke-Flexi-Bath-Bundle---White.jpg?v=1775130290",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-flexi-bath-bundle-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15905689010560",
@@ -1259,7 +2497,17 @@
    "image": "https://cdn.shopify.com/s/files/1/0541/1527/0826/files/bear-knit-merinovillahaalari-stormy-haalari-jumpsuit-a-world-full-of-smiles-935394.jpg?v=1787824736",
    "price": 99.9,
    "url": "https://metsola.fi/products/knitted-bear-jumpsuit-stormy",
-   "available": true
+   "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/58726086017408",
+     "label": "Stormy",
+     "family": "grey",
+     "price": 99.9,
+     "image": "https://cdn.shopify.com/s/files/1/0541/1527/0826/files/bear-knit-merinovillahaalari-stormy-haalari-jumpsuit-a-world-full-of-smiles-935394.jpg?v=1787824736",
+     "url": "https://metsola.fi/products/knitted-bear-jumpsuit-stormy"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15634422694272",
@@ -1288,7 +2536,17 @@
    "image": "https://cdn.shopify.com/s/files/1/0572/3000/0309/files/PACK_KS3556_P00038_1_260611021907.jpg?v=1781200766",
    "price": 39.95,
    "url": "https://kongessloejd.com/products/newborn-onesie-gots-onesies-lemon",
-   "available": true
+   "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/42231355441333",
+     "label": "cherry",
+     "family": "pink",
+     "price": 39.95,
+     "image": "https://cdn.shopify.com/s/files/1/0572/3000/0309/files/PACK_KS3556_P00005_1_260611021905.jpg?v=1781200740",
+     "url": "https://kongessloejd.com/products/newborn-onesie-gots-onesies-cherry"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15049103114616",
@@ -1303,7 +2561,33 @@
    "price": 32.86,
    "url": "https://www.gugguu.com/products/aw26-outerwear-collection-merino-baby-beanie",
    "available": true,
-   "listPrice": 46.95
+   "listPrice": 46.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55638286107000",
+     "label": "Black",
+     "family": "black",
+     "price": 32.86,
+     "image": "https://cdn.shopify.com/s/files/1/0048/8836/3077/files/gugguucom-merino-baby-beanie-black-2225326.png?v=1789729051",
+     "url": "https://www.gugguu.com/products/aw26-outerwear-collection-merino-baby-beanie"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55638286270840",
+     "label": "Forest Quiet",
+     "family": "green",
+     "price": 32.86,
+     "image": "https://cdn.shopify.com/s/files/1/0048/8836/3077/files/gugguucom-merino-baby-beanie-forest-quiet-9285282.png?v=1789729052",
+     "url": "https://www.gugguu.com/products/aw26-outerwear-collection-merino-baby-beanie"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55638286795128",
+     "label": "Morning Mist",
+     "family": "grey",
+     "price": 32.86,
+     "image": "https://cdn.shopify.com/s/files/1/0048/8836/3077/files/gugguucom-merino-baby-beanie-morning-mist-2466763.png?v=1789729051",
+     "url": "https://www.gugguu.com/products/aw26-outerwear-collection-merino-baby-beanie"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15204191895927",
@@ -1319,7 +2603,17 @@
    "url": "https://www.liewood.com/products/briley-baby-jumpsuit-sandy",
    "available": true,
    "pick": "ulkovaatteet",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56019235307895",
+     "label": "Sandy",
+     "family": "beige",
+     "price": 85.0,
+     "image": "https://cdn.shopify.com/s/files/1/0984/4880/files/a29udGFpbmVyL25ldy80OTQ5LzE3MDY1MTU0djIucG5n_5c837374-be92-460e-a4da-f6666d611529.jpg?v=1777473184",
+     "url": "https://www.liewood.com/products/briley-baby-jumpsuit-sandy"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15067428913528",
@@ -1336,7 +2630,17 @@
    "available": true,
    "listPrice": 139.95,
    "pick": "ulkovaatteet",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55699302515064",
+     "label": "Black",
+     "family": "black",
+     "price": 104.96,
+     "image": "https://cdn.shopify.com/s/files/1/0048/8836/3077/files/gugguucom-baby-puffer-overall-black-2106180.png?v=1792794877",
+     "url": "https://www.gugguu.com/products/aw26-merinowool-collection-baby-puffer-overall"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15051114873208",
@@ -1353,7 +2657,25 @@
    "available": true,
    "listPrice": 189.95,
    "pick": "ulkovaatteet",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55645267132792",
+     "label": "Black",
+     "family": "black",
+     "price": 132.96,
+     "image": "https://cdn.shopify.com/s/files/1/0048/8836/3077/files/gugguucom-north-snowsuit-black-7515690.webp?v=1788569006",
+     "url": "https://www.gugguu.com/products/aw26-outerwear-collection-north-snowsuit"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55645267329400",
+     "label": "Mauve",
+     "family": "pink",
+     "price": 132.96,
+     "image": "https://cdn.shopify.com/s/files/1/0048/8836/3077/files/gugguucom-north-snowsuit-mauve-2255424.jpg?v=1788569007",
+     "url": "https://www.gugguu.com/products/aw26-outerwear-collection-north-snowsuit"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/9146690797900",
@@ -1369,7 +2691,25 @@
    "url": "https://www.hauck.de/products/alpha-bouncer-2in1",
    "available": true,
    "pick": "sitteri",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/52771983786316",
+     "label": "Stretch Beige",
+     "family": "beige",
+     "price": 69.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/1545154618.jpg?v=1793027769",
+     "url": "https://www.hauck.de/products/alpha-bouncer-2in1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/52769519108428",
+     "label": "Stretch Grey",
+     "family": "grey",
+     "price": 69.9,
+     "image": "https://cdn.shopify.com/s/files/1/0807/0630/6380/files/1545154610_53e8db5b-d2ba-4603-aa35-dfc29eb17072.jpg?v=1793027627",
+     "url": "https://www.hauck.de/products/alpha-bouncer-2in1"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/7416817614926",
@@ -1386,7 +2726,25 @@
    "available": true,
    "listPrice": 348.95,
    "pick": "sitteri",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/54859698602363",
+     "label": "Sage Green",
+     "family": "green",
+     "price": 209.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/ergobaby-evolve-mesh-baby-bouncer-sage-green-flat-3.jpg?v=1758713493",
+     "url": "https://www.naturalbabyshower.co.uk/products/ergobaby-evolve-mesh-baby-bouncer-sage-green"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54859701420411",
+     "label": "Ocean Wonders",
+     "family": "blue",
+     "price": 291.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/ergobaby-evolve-bouncer-sage-green-cream-bar-flat.jpg?v=1732794850",
+     "url": "https://www.naturalbabyshower.co.uk/products/ergobaby-evolve-mesh-baby-bouncer-sage-green"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6801515610190",
@@ -1403,7 +2761,33 @@
    "available": true,
    "listPrice": 385.95,
    "pick": "sitteri",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55749824151931",
+     "label": "Charcoal Grey",
+     "family": "grey",
+     "price": 308.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/babybjorn-bouncer-bliss-3d-jersey-charcoal-grey.jpg?v=1699411409",
+     "url": "https://www.naturalbabyshower.co.uk/products/babybjorn-bouncer-bliss-3d-jersey-charcoal-grey"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55749935726971",
+     "label": "Light Beige",
+     "family": "beige",
+     "price": 308.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/babybjorn-bouncer-bliss-3d-jersey-light-beige.jpg?v=1699453412",
+     "url": "https://www.naturalbabyshower.co.uk/products/babybjorn-bouncer-bliss-3d-jersey-light-beige"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55749935923579",
+     "label": "Soft Friends Sand",
+     "family": "beige",
+     "price": 381.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/babybjorn-baby-bouncer-3d-jersey-light-beige-toy-bars-flat-6.jpg?v=1759215889",
+     "url": "https://www.naturalbabyshower.co.uk/products/babybjorn-bouncer-bliss-3d-jersey-light-beige"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6885729960014",
@@ -1420,7 +2804,17 @@
    "available": true,
    "listPrice": 91.95,
    "pick": "leikkimatto",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40282401996878",
+     "label": "Black & White",
+     "family": "white",
+     "price": 73.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/tiny-love-black-white-decor-luxe-development-gymini-flat.jpg?v=1700889356",
+     "url": "https://www.naturalbabyshower.co.uk/products/tiny-love-classic-gymini-black-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/3704937316430",
@@ -1436,7 +2830,17 @@
    "url": "https://www.naturalbabyshower.co.uk/products/the-little-green-sheep-play-mat-linen",
    "available": true,
    "pick": "leikkimatto",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/28707893379150",
+     "label": "Linen",
+     "family": "beige",
+     "price": 91.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/The-Little-Green-Sheep-Play-Mat---Linen.jpg?v=1699365861",
+     "url": "https://www.naturalbabyshower.co.uk/products/the-little-green-sheep-play-mat-linen"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6800232415275",
@@ -1452,7 +2856,17 @@
    "url": "https://donebydeer.com/en-fi/products/activity-gym-lalee-sand",
    "available": true,
    "pick": "leikkimatto",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39939514105899",
+     "label": "Sand",
+     "family": "beige",
+     "price": 109.95,
+     "image": "https://cdn.shopify.com/s/files/1/0565/6808/6571/products/Activity-gym-Lalee-Sand-Front-1.jpg?v=1751974988",
+     "url": "https://donebydeer.com/en-fi/products/activity-gym-lalee-sand"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15033145393527",
@@ -1467,6 +2881,16 @@
    "price": 100.0,
    "url": "https://www.liewood.com/products/bernet-activity-blanket-sandy-multi-mix",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55385559269751",
+     "label": "Sandy multi mix",
+     "family": "beige",
+     "price": 100.0,
+     "image": "https://cdn.shopify.com/s/files/1/0984/4880/files/a29udGFpbmVyL25ldy80OTQ5LzE5Njk0ODA2djEucG5n_5ca53478-f5ca-4845-ba02-0a23a972cbea.jpg?v=1777467977",
+     "url": "https://www.liewood.com/products/bernet-activity-blanket-sandy-multi-mix"
+    }
+   ],
    "candidateFor": "leikkimatto"
   },
   {
@@ -1483,7 +2907,17 @@
    "url": "https://donebydeer.com/en-fi/products/tiny-sensory-rattle-lalee-sand",
    "available": true,
    "pick": "lelut",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40396832342059",
+     "label": "Sand",
+     "family": "beige",
+     "price": 13.95,
+     "image": "https://cdn.shopify.com/s/files/1/0565/6808/6571/products/Tiny-sensory-rattle-Lalee-Sand-Front.jpg?v=1662564781",
+     "url": "https://donebydeer.com/en-fi/products/tiny-sensory-rattle-lalee-sand"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15021469466999",
@@ -1499,7 +2933,17 @@
    "url": "https://www.liewood.com/products/hakim-silicone-rattle-sandy-multi-mix",
    "available": true,
    "pick": "lelut",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55353766510967",
+     "label": "Sandy multi mix",
+     "family": "beige",
+     "price": 24.0,
+     "image": "https://cdn.shopify.com/s/files/1/0984/4880/files/a29udGFpbmVyL25ldy80OTQ5LzE5Njk0ODg5djEucG5n_d4eeb4b5-a148-47d5-8edc-5640c17e7c6b.jpg?v=1777468001",
+     "url": "https://www.liewood.com/products/hakim-silicone-rattle-sandy-multi-mix"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/8880274243928",
@@ -1516,7 +2960,17 @@
    "available": true,
    "listPrice": 34.95,
    "pick": "lelut",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/47521475559768",
+     "label": "Sand",
+     "family": "beige",
+     "price": 27.95,
+     "image": "https://cdn.shopify.com/s/files/1/0565/6808/6571/files/Soft-toy-gift-box-Lalee-Sand-Detail-3-PS.jpg?v=1705402358",
+     "url": "https://donebydeer.com/en-fi/products/soft-toy-gift-box-lalee-sand"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/4840771813454",
@@ -1584,7 +3038,17 @@
    "available": true,
    "listPrice": 32.95,
    "pick": "imetysliivit",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39603264847950",
+     "label": "Black",
+     "family": "black",
+     "price": 27.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/carriwell-maternity-bra-black.jpg?v=1699430419",
+     "url": "https://www.naturalbabyshower.co.uk/products/carriwell-maternity-bra-black"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6682661650510",
@@ -1601,7 +3065,25 @@
    "available": true,
    "listPrice": 52.95,
    "pick": "imetysliivit",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39603265667150",
+     "label": "Black",
+     "family": "black",
+     "price": 44.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/carriwell-original-maternity-nursing-bra-black.jpg?v=1699430458",
+     "url": "https://www.naturalbabyshower.co.uk/products/carriwell-original-maternity-nursing-bra-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/39603265798222",
+     "label": "White",
+     "family": "white",
+     "price": 44.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/products/carriwell-original-maternity-nursing-bra-white.jpg?v=1699430464",
+     "url": "https://www.naturalbabyshower.co.uk/products/carriwell-original-maternity-nursing-bra-white"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/6948614668366",
@@ -1618,7 +3100,17 @@
    "available": true,
    "listPrice": 73.95,
    "pick": "imetysliivit",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40440220844110",
+     "label": "Black",
+     "family": "black",
+     "price": 62.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/carriwell-soft-as-silk-mursing-bra-black-flat-13.jpg?v=1701921928",
+     "url": "https://www.naturalbabyshower.co.uk/products/carriwell-soft-as-silk-nursing-bra-black"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15355205648763",
@@ -1633,6 +3125,16 @@
    "price": 2296.95,
    "url": "https://www.naturalbabyshower.co.uk/products/cybex-priam-comfort-pushchair-foldable-carrycot-sepia-black-rose-gold",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56147932316027",
+     "label": "Sepia Black/Rose Gold",
+     "family": "black",
+     "price": 2296.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-priam-comfort-pushchair-foldable-carrycot-sepia-black-rose-gold-flat-12.jpg?v=1773961794",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-priam-comfort-pushchair-foldable-carrycot-sepia-black-rose-gold"
+    }
+   ],
    "candidateFor": "stroller"
   },
   {
@@ -1648,6 +3150,32 @@
    "price": 319.0,
    "url": "https://www.inglesina.com/fi-fi/products/darwin-infant-recline-evo",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/57482653729152",
+     "label": "Loft Green",
+     "family": "green",
+     "price": 319.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-recline-evo-loft-green.jpg?v=1772116456",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant-recline-evo"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57482653663616",
+     "label": "Marble Grey",
+     "family": "grey",
+     "price": 319.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-recline-evo-marble-grey.jpg?v=1772116454",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant-recline-evo"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/57482653532544",
+     "label": "Vicuna Beige",
+     "family": "beige",
+     "price": 319.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/darwin-infant-recline-evo-vicuna-beige.jpg?v=1772116454",
+     "url": "https://www.inglesina.com/fi-fi/products/darwin-infant-recline-evo"
+    }
+   ],
    "candidateFor": "infantseat"
   },
   {
@@ -1664,6 +3192,40 @@
    "url": "https://www.naturalbabyshower.co.uk/products/cybex-sirona-gi-i-size-plus-moon-black",
    "available": true,
    "listPrice": 495.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/41939123503182",
+     "label": "Almond Beige",
+     "family": "beige",
+     "price": 394.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/sirona-gi-plus-flat-2.jpg?v=1729680265",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-sirona-gi-i-size-plus-almond-beige"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/41939123896398",
+     "label": "Moon Black",
+     "family": "black",
+     "price": 394.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/sirona-gi-plus-moon-flat-2.jpg?v=1729681703",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-sirona-gi-i-size-plus-moon-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/41939123470414",
+     "label": "Stone Grey",
+     "family": "grey",
+     "price": 394.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/sirona-gi-plus-stone-flat-2.jpg?v=1729680743",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-sirona-gi-i-size-plus-stone-grey"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/41939123994702",
+     "label": "Stormy Blue",
+     "family": "blue",
+     "price": 394.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/sirona-gi-plus-stormy-blue-flat-2.jpg?v=1792922171",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-sirona-gi-i-size-plus-stormy-blue"
+    }
+   ],
    "candidateFor": "toddlerseat"
   },
   {
@@ -1680,6 +3242,16 @@
    "url": "https://www.naturalbabyshower.co.uk/products/joolz-universal-footmuff-v3-forest-green",
    "available": true,
    "listPrice": 183.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56387039363451",
+     "label": "Forest Green",
+     "family": "green",
+     "price": 156.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/joolz-universal-footmuff-forest-green-flat_618a077d-1179-4edd-9977-f4283e1feb10.jpg?v=1787737398",
+     "url": "https://www.naturalbabyshower.co.uk/products/joolz-universal-footmuff-v3-forest-green"
+    }
+   ],
    "candidateFor": "lampopussi"
   },
   {
@@ -1695,6 +3267,64 @@
    "price": 139.0,
    "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/51436356567307",
+     "label": "Outdoor Black",
+     "family": "black",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/OutdoorBlack_54d14aeb-bf8b-430b-98a3-1a2b0601f4fc.jpg?v=1747572324",
+     "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51436356337931",
+     "label": "Outdoor Brown",
+     "family": "brown",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/Brown.jpg?v=1747572324",
+     "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51436356534539",
+     "label": "Outdoor Dark Navy",
+     "family": "blue",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/DarkNavy.jpg?v=1747572324",
+     "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51436356501771",
+     "label": "Outdoor Green",
+     "family": "green",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/Graphite.jpg?v=1747572324",
+     "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51436356469003",
+     "label": "Urban Black",
+     "family": "black",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/UrbanBlack_4869ca1e-a1db-4d3f-b3da-3def3a88ddf3.jpg?v=1747572323",
+     "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/52844626706699",
+     "label": "Urban Dune",
+     "family": "beige",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/57011_Urban_Dune_1.jpg?v=1773926658",
+     "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/52844626739467",
+     "label": "Urban Green",
+     "family": "green",
+     "price": 139.0,
+     "image": "https://cdn.shopify.com/s/files/1/0653/9545/8315/files/57012_Urban_Green_1.jpg?v=1773926657",
+     "url": "https://emmaljunga.com/fi-fi/products/footmuff-3-in-1"
+    }
+   ],
    "candidateFor": "lampopussi"
   },
   {
@@ -1711,6 +3341,24 @@
    "url": "https://www.naturalbabyshower.co.uk/products/tutti-bambini-cozee-air-2-bedside-crib-drifted-oak-eucalyptus",
    "available": true,
    "listPrice": 420.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55874023293307",
+     "label": "Drifted Oak / Eucalyptus",
+     "family": "brown",
+     "price": 328.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/tutti-bambini-cozee-air-bedside-crib-eucalyptus-flat-6.jpg?v=1770766065",
+     "url": "https://www.naturalbabyshower.co.uk/products/tutti-bambini-cozee-air-2-bedside-crib-drifted-oak-eucalyptus"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55874023457147",
+     "label": "Soft Walnut / Cocoa",
+     "family": "brown",
+     "price": 347.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/tutti-bambini-cozee-air-bedside-crib-cocoa-flat-6.jpg?v=1770766096",
+     "url": "https://www.naturalbabyshower.co.uk/products/tutti-bambini-cozee-air-2-bedside-crib-soft-walnut-cocoa"
+    }
+   ],
    "candidateFor": "sanky"
   },
   {
@@ -1727,6 +3375,16 @@
    "url": "https://www.naturalbabyshower.co.uk/products/maxi-cosi-iora-pro-bedside-crib-elegance-beige",
    "available": true,
    "listPrice": 367.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56215917887867",
+     "label": "Elegance Beige",
+     "family": "beige",
+     "price": 312.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/maxi-cosi-iora-pro-bedside-crib-elegance-beige-flat-10.jpg?v=1777595154",
+     "url": "https://www.naturalbabyshower.co.uk/products/maxi-cosi-iora-pro-bedside-crib-elegance-beige"
+    }
+   ],
    "candidateFor": "sanky"
   },
   {
@@ -1759,6 +3417,16 @@
    "url": "https://www.naturalbabyshower.co.uk/products/babymoov-yoo-go-plus-5-hd-video-monitor-green",
    "available": true,
    "listPrice": 293.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/41649198071886",
+     "label": "Green",
+     "family": "green",
+     "price": 249.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/babymoov-yoo-go-plus-5-hd-video-monitor-green-flat.jpg?v=1727791792",
+     "url": "https://www.naturalbabyshower.co.uk/products/babymoov-yoo-go-plus-5-hd-video-monitor-green"
+    }
+   ],
    "candidateFor": "halytin"
   },
   {
@@ -1791,6 +3459,16 @@
    "url": "https://www.naturalbabyshower.co.uk/products/maxi-cosi-kori-baby-bouncer-classic-beige",
    "available": true,
    "listPrice": 202.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/41733684232270",
+     "label": "Classic Beige",
+     "family": "beige",
+     "price": 151.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/maxi-cosi-kori-bouncer-classic-beige-flat-9.jpg?v=1728442370",
+     "url": "https://www.naturalbabyshower.co.uk/products/maxi-cosi-kori-baby-bouncer-classic-beige"
+    }
+   ],
    "candidateFor": "sitteri"
   },
   {
@@ -1807,6 +3485,16 @@
    "url": "https://www.naturalbabyshower.co.uk/products/momcozy-m6-double-breast-pump-white",
    "available": true,
    "listPrice": 422.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55713908228475",
+     "label": "White",
+     "family": "white",
+     "price": 295.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/momcozy-m6-double-breast-pump-flat-5.jpg?v=1757464968",
+     "url": "https://www.naturalbabyshower.co.uk/products/momcozy-m6-double-breast-pump-white"
+    }
+   ],
    "candidateFor": "rintapumppu"
   },
   {
@@ -1823,6 +3511,24 @@
    "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-stardust-travel-cot-2024-black",
    "available": true,
    "listPrice": 413.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56371895763323",
+     "label": "Black",
+     "family": "black",
+     "price": 351.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-stardust-midnight-black-flat.jpg?v=1723555908",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-stardust-travel-cot-2024-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56371892846971",
+     "label": "Desert Taupe",
+     "family": "beige",
+     "price": 351.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/bugaboo-stardust-desert-taupe-flat.jpg?v=1757030118",
+     "url": "https://www.naturalbabyshower.co.uk/products/bugaboo-stardust-travel-cot-2024-desert-taupe"
+    }
+   ],
    "candidateFor": "matkasanky"
   },
   {
@@ -1838,6 +3544,16 @@
    "price": 459.95,
    "url": "https://www.naturalbabyshower.co.uk/products/nuna-sena-aire-caviar",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56460971606395",
+     "label": "Caviar",
+     "family": "black",
+     "price": 459.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/nuna-sena-aire-travel-cot-flat.jpg?v=1790176365",
+     "url": "https://www.naturalbabyshower.co.uk/products/nuna-sena-aire-caviar"
+    }
+   ],
    "candidateFor": "matkasanky"
   },
   {
@@ -1855,7 +3571,65 @@
    "available": true,
    "listPrice": 299.0,
    "pick": "matkarattaat",
-   "tier": "value"
+   "tier": "value",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/57513648226688",
+     "label": "Orbital Grey",
+     "family": "grey",
+     "price": 249.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/quid-3-orbital-grey.jpg?v=1772545058",
+     "url": "https://www.inglesina.com/fi-fi/products/quid3"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56770973794688",
+     "label": "Astral Blue",
+     "family": "blue",
+     "price": 299.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/quid-3-astral-blue.jpg?v=1772545058",
+     "url": "https://www.inglesina.com/fi-fi/products/quid3"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56770973827456",
+     "label": "Aurora Pink",
+     "family": "pink",
+     "price": 299.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/quid-3-aurora-pink.jpg?v=1772545058",
+     "url": "https://www.inglesina.com/fi-fi/products/quid3"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56770973860224",
+     "label": "Cosmic Black",
+     "family": "black",
+     "price": 299.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/quid-3-cosmic-black.jpg?v=1772545058",
+     "url": "https://www.inglesina.com/fi-fi/products/quid3"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56770973892992",
+     "label": "Galaxy Grey",
+     "family": "grey",
+     "price": 299.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/quid-3-galaxy-grey.jpg?v=1772545058",
+     "url": "https://www.inglesina.com/fi-fi/products/quid3"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56770973761920",
+     "label": "Lunar Beige",
+     "family": "beige",
+     "price": 299.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/quid-3-lunar-beige.jpg?v=1772545058",
+     "url": "https://www.inglesina.com/fi-fi/products/quid3"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56770973925760",
+     "label": "Planet Green",
+     "family": "green",
+     "price": 299.0,
+     "image": "https://cdn.shopify.com/s/files/1/0910/6309/1584/files/quid-3-planet-green.jpg?v=1772545058",
+     "url": "https://www.inglesina.com/fi-fi/products/quid3"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/10233500500256",
@@ -1871,7 +3645,25 @@
    "url": "https://ergobaby.com/en-eu/products/metro-3-compact-stroller",
    "available": true,
    "pick": "matkarattaat",
-   "tier": "balanced"
+   "tier": "balanced",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/51935127896352",
+     "label": "Natural Beige",
+     "family": "beige",
+     "price": 399.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/METRO3NATBGE_ergobaby_stroller_metro_3_natbge_1.webp?v=1776781109",
+     "url": "https://ergobaby.com/en-eu/products/metro-3-compact-stroller"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/51935127765280",
+     "label": "Soft Olive",
+     "family": "green",
+     "price": 399.9,
+     "image": "https://cdn.shopify.com/s/files/1/0968/4995/3056/files/METRO3SFTOLV_ergobaby_stroller_metro_3_sftolv_1.webp?v=1776781109",
+     "url": "https://ergobaby.com/en-eu/products/metro-3-compact-stroller"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15355206140283",
@@ -1887,7 +3679,25 @@
    "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-comfort-compact-stroller-coconut-brown-black",
    "available": true,
    "pick": "matkarattaat",
-   "tier": "premium"
+   "tier": "premium",
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56147932873083",
+     "label": "Coconut Brown/Black",
+     "family": "brown",
+     "price": 826.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-coya-comfort-coconut-brown-flat_ab422eaa-2790-498b-82be-1701443f3da4.jpg?v=1785453935",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-comfort-compact-stroller-coconut-brown-black"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56147932643707",
+     "label": "Cozy Beige/Black",
+     "family": "beige",
+     "price": 826.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-coya-compact-stroller-cozy-beige-sepia-black-flat.jpg?v=1773913570",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-comfort-compact-stroller-cozy-beige-black"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/15355205550459",
@@ -1902,6 +3712,16 @@
    "price": 1359.95,
    "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-comfort-compact-stroller-carrycot-cozy-beige-black",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56147932217723",
+     "label": "Cozy Beige/Black",
+     "family": "beige",
+     "price": 1359.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-coya-compact-stroller-carrycot-coz-beige-black-flat.jpg?v=1792195744",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-comfort-compact-stroller-carrycot-cozy-beige-black"
+    }
+   ],
    "candidateFor": "stroller"
   },
   {
@@ -1918,6 +3738,24 @@
    "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-baby-carrier-stone-black-boucle",
    "available": true,
    "listPrice": 643.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55469387579771",
+     "label": "Stone Black",
+     "family": "black",
+     "price": 223.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-coya-carrier-boucle-stone-black-flat.jpg?v=1748935678",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-baby-carrier-stone-black-boucle"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55469387514235",
+     "label": "Cream White",
+     "family": "white",
+     "price": 496.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/cybex-coya-carrier-boucle-cream-white-flat-3.jpg?v=1792798443",
+     "url": "https://www.naturalbabyshower.co.uk/products/cybex-coya-baby-carrier-cream-white-boucle"
+    }
+   ],
    "candidateFor": "carrier"
   },
   {
@@ -1934,6 +3772,32 @@
    "url": "https://www.naturalbabyshower.co.uk/products/owlet-dream-duo-mint",
    "available": true,
    "listPrice": 698.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55719845790075",
+     "label": "Bedtime Blue",
+     "family": "blue",
+     "price": 593.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/owlet-dream-duo-bedtime-blue-flat.jpg?v=1757465125",
+     "url": "https://www.naturalbabyshower.co.uk/products/owlet-dream-duo-bedtime-blue"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55719845691771",
+     "label": "Dusty Rose",
+     "family": "pink",
+     "price": 593.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/owlet-dream-duo-dusty-rose-flat.jpg?v=1757465082",
+     "url": "https://www.naturalbabyshower.co.uk/products/owlet-dream-duo-dusty-rose"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/55719845757307",
+     "label": "Mint",
+     "family": "green",
+     "price": 593.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/owlet-dream-duo-mint-flat.jpg?v=1757465109",
+     "url": "https://www.naturalbabyshower.co.uk/products/owlet-dream-duo-mint"
+    }
+   ],
    "candidateFor": "halytin"
   },
   {
@@ -1950,6 +3814,16 @@
    "url": "https://www.naturalbabyshower.co.uk/products/owlet-dream-sight-white",
    "available": true,
    "listPrice": 181.95,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/55719845724539",
+     "label": "White",
+     "family": "white",
+     "price": 154.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/owlet-dream-sight-flat.jpg?v=1757465098",
+     "url": "https://www.naturalbabyshower.co.uk/products/owlet-dream-sight-white"
+    }
+   ],
    "candidateFor": "halytin"
   },
   {
@@ -1965,6 +3839,32 @@
    "price": 799.95,
    "url": "https://www.naturalbabyshower.co.uk/products/stokke-sleepi-v3-mini-crib-natural",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/40203505369166",
+     "label": "Natural",
+     "family": "beige",
+     "price": 799.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-v3-mini-crib-natural.jpg?v=1776293327",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-sleepi-v3-mini-crib-natural"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/54982241190267",
+     "label": "Warm Brown",
+     "family": "brown",
+     "price": 799.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-warm-brown-mini-flat_e71c1563-896f-475d-a516-cef3477563fa.jpg?v=1776294527",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-sleepi-v3-mini-crib-warm-brown"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/40203505434702",
+     "label": "White",
+     "family": "white",
+     "price": 799.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-v3-mini-crib-white.jpg?v=1776293330",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-sleepi-v3-mini-crib-white"
+    }
+   ],
    "candidateFor": "sanky"
   },
   {
@@ -1980,6 +3880,48 @@
    "price": 1034.95,
    "url": "https://www.naturalbabyshower.co.uk/products/stokke-r-sleepi-bed-natural-without-wheels-natural",
    "available": true,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/56316447228283",
+     "label": "Natural",
+     "family": "beige",
+     "price": 1034.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-bed-natural-without-wheels-natural-flat-2.jpg?v=1779322098",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-r-sleepi-bed-natural-without-wheels-natural"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56316442771835",
+     "label": "Warm Brown",
+     "family": "brown",
+     "price": 1034.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-bed-warm-borwn-without-wheels-warm-brown-flat-2.jpg?v=1779322101",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-r-sleepi-bed-warm-brown-without-wheels-warm-brown"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56316410659195",
+     "label": "White",
+     "family": "white",
+     "price": 1034.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-bed-white-without-wheels-white-flat-2.jpg?v=1779322095",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-r-sleepi-bed-white-without-wheels-white"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56316447261051",
+     "label": "With Beige Wheels",
+     "family": "beige",
+     "price": 1133.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-bed-natural-without-wheels-natural-flat-2.jpg?v=1779322098",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-r-sleepi-bed-natural-without-wheels-natural"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56316447326587",
+     "label": "With Black Wheels",
+     "family": "black",
+     "price": 1133.95,
+     "image": "https://cdn.shopify.com/s/files/1/0690/1977/files/stokke-sleepi-bed-natural-without-wheels-natural-flat-2.jpg?v=1779322098",
+     "url": "https://www.naturalbabyshower.co.uk/products/stokke-r-sleepi-bed-natural-without-wheels-natural"
+    }
+   ],
    "candidateFor": "sanky"
   },
   {
@@ -1996,6 +3938,64 @@
    "url": "https://www.tartine-et-chocolat.com/products/nid-dange-twill-de-coton",
    "available": true,
    "listPrice": 135.0,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/39801690947651",
+     "label": "Garda bleu ciel",
+     "family": "blue",
+     "price": 140.0,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/TP72121-41_1.jpg?v=1696843962",
+     "url": "https://www.tartine-et-chocolat.com/products/nid-dange-garda-bleu-ciel"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/39801690882115",
+     "label": "Garda rose pâle",
+     "family": "pink",
+     "price": 140.0,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/TP72121-31_1.jpg?v=1736856044",
+     "url": "https://www.tartine-et-chocolat.com/products/nid-dange-garda-rose-ple"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/39801706971203",
+     "label": "Imprimé Feuillage Bleu",
+     "family": "blue",
+     "price": 140.0,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/TQ72031_3.jpg?v=1687946965",
+     "url": "https://www.tartine-et-chocolat.com/products/nid-dange-imprime-feuillage"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/56696101011788",
+     "label": "Imprimé Feuillage Vert",
+     "family": "green",
+     "price": 140.0,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/TQ72031-52_1.jpg?v=1770890710",
+     "url": "https://www.tartine-et-chocolat.com/products/tq72031-52-nidangefgr"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/39801773457475",
+     "label": "Imprimé inspiration Toile de Jouy rose",
+     "family": "pink",
+     "price": 140.0,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/products/TT72071_34_2_0.jpg?v=1736861079",
+     "url": "https://www.tartine-et-chocolat.com/products/nid-dange-toile-de-jouy-rose"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48199444791628",
+     "label": "Imprimé inspiration toile de jouy bleu",
+     "family": "blue",
+     "price": 140.0,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/TT72071-04_1_73d151fc-74c6-4f3b-980d-1f6a3c7d6229.jpg?v=1758632465",
+     "url": "https://www.tartine-et-chocolat.com/products/nid-dange-imprime-inspiration-toile-de-jouy-bleu"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/39801527992387",
+     "label": "Délicatesse nacre",
+     "family": "beige",
+     "price": 150.0,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/products/TG72029_13_1_1.jpg?v=1649168901",
+     "url": "https://www.tartine-et-chocolat.com/products/nid-dange-delicatesse-nacre"
+    }
+   ],
    "candidateFor": "ulkovaatteet"
   },
   {
@@ -2011,7 +4011,33 @@
    "price": 69.3,
    "url": "https://www.tartine-et-chocolat.com/products/babies-rose-pale",
    "available": true,
-   "listPrice": 99.0
+   "listPrice": 99.0,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/52832895959372",
+     "label": "Or rose ajourés",
+     "family": "pink",
+     "price": 66.5,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/CB8103S-74_3_51cbb129-001e-4153-a895-9b82dc87fe27.jpg?v=1758640671",
+     "url": "https://www.tartine-et-chocolat.com/products/babies-or-ajoures"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48136065515852",
+     "label": "Rose pâle",
+     "family": "pink",
+     "price": 69.3,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/TZ8112S-3124H_1.jpg?v=1721638482",
+     "url": "https://www.tartine-et-chocolat.com/products/babies-rose-pale"
+    },
+    {
+     "variant": "gid://shopify/ProductVariant/48136066761036",
+     "label": "Marine vernis",
+     "family": "blue",
+     "price": 73.5,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/TZ8113S-0424H_1.jpg?v=1721638644",
+     "url": "https://www.tartine-et-chocolat.com/products/babies-marine-vernis"
+    }
+   ]
   },
   {
    "id": "gid://shopify/Product/14933061894476",
@@ -2026,7 +4052,17 @@
    "price": 59.5,
    "url": "https://www.tartine-et-chocolat.com/products/pyjama-rose-pale-volante",
    "available": true,
-   "listPrice": 85.0
+   "listPrice": 85.0,
+   "colors": [
+    {
+     "variant": "gid://shopify/ProductVariant/52746749968716",
+     "label": "Rose pâle volanté",
+     "family": "pink",
+     "price": 59.5,
+     "image": "https://cdn.shopify.com/s/files/1/0551/7013/8179/files/CB54180_31_5.jpg?v=1761148508",
+     "url": "https://www.tartine-et-chocolat.com/products/pyjama-rose-pale-volante"
+    }
+   ]
   }
  ]
 }

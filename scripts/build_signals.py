@@ -118,7 +118,7 @@ def main(src, dst, trends=None, ratings=None, stock=None, experts=None):
         "updated": datetime.date.today().isoformat(),
         # Painot ovat säädettävissä palvelimelta ilman sovelluspäivitystä.
         # Arviot (rating) ovat pois käytöstä; niiden paino siirtyi asiantuntijoille (expert).
-        "weights": {"quality": 0.22, "test": 0.18, "rating": 0.0, "expert": 0.12, "trend": 0.08, "price": 0.22, "brand": 0.10, "compat": 0.08},
+        "weights": {"quality": 0.19, "test": 0.18, "rating": 0.0, "expert": 0.12, "trend": 0.08, "price": 0.22, "brand": 0.07, "compat": 0.08, "color": 0.06},
         # Vaunujen merkki → turvakaukalon/lämpöpussin merkit, jotka sopivat suoraan (kauppojen valmiit paketit).
         "compat": {"Cybex": ["Cybex"], "Bugaboo": ["Bugaboo", "Cybex", "Maxi-Cosi"], "Hauck": ["Hauck"], "Inglesina": ["Inglesina"],
                    "Emmaljunga": ["Emmaljunga"], "Easywalker": ["Easywalker"], "Bumprider": ["Bumprider"]},
