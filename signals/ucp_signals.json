@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "weights": {
   "quality": 0.19,
   "test": 0.18,
@@ -46,18 +46,18 @@
    "brand": "Bugaboo",
    "quality": 0.9,
    "trend": {
-    "score": 0.353,
+    "score": 0.342,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15355205681531": {
    "brand": "Cybex",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.397,
@@ -75,9 +75,9 @@
    "brand": "Emmaljunga",
    "quality": 0.85,
    "trend": {
-    "score": 0.306,
+    "score": 0.313,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15316768424260": {
@@ -92,9 +92,9 @@
    "brand": "Cybex",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15270130450811": {
@@ -105,9 +105,9 @@
    "brand": "Bugaboo",
    "quality": 0.9,
    "trend": {
-    "score": 0.353,
+    "score": 0.342,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/9345693679948": {
@@ -128,9 +128,9 @@
     "score": 0.844
    },
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.5,
@@ -154,9 +154,9 @@
     "score": 0.689
    },
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.556,
@@ -170,9 +170,9 @@
    "brand": "BeSafe",
    "quality": 0.9,
    "trend": {
-    "score": 0.883,
+    "score": 0.781,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15397243486592": {
@@ -191,9 +191,9 @@
    "brand": "Ergobaby",
    "quality": 0.85,
    "trend": {
-    "score": 0.266,
+    "score": 0.426,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.714,
@@ -207,9 +207,9 @@
    "brand": "Ergobaby",
    "quality": 0.85,
    "trend": {
-    "score": 0.266,
+    "score": 0.426,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/9146700497228": {
@@ -224,9 +224,9 @@
    "brand": "Stokke",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.494,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.794,
@@ -248,9 +248,9 @@
    "brand": "Done by Deer",
    "quality": 0.8,
    "trend": {
-    "score": 0.44,
+    "score": 0.564,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15275209097595": {
@@ -259,7 +259,7 @@
    "trend": {
     "score": 1.0,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6863252684878": {
@@ -282,9 +282,9 @@
    "brand": "Momcozy",
    "quality": 0.7,
    "trend": {
-    "score": 0.726,
+    "score": 0.676,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/3705947979854": {
@@ -295,9 +295,9 @@
    "brand": "Done by Deer",
    "quality": 0.8,
    "trend": {
-    "score": 0.44,
+    "score": 0.564,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15099615674747": {
@@ -308,9 +308,9 @@
    "brand": "Liewood",
    "quality": 0.8,
    "trend": {
-    "score": 0.279,
+    "score": 0.275,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6793603678321": {
@@ -351,9 +351,9 @@
    "brand": "Maxi-Cosi",
    "quality": 0.75,
    "trend": {
-    "score": 0.886,
+    "score": 0.838,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6948902928462": {
@@ -375,18 +375,18 @@
    "brand": "Maxi-Cosi",
    "quality": 0.75,
    "trend": {
-    "score": 0.886,
+    "score": 0.838,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/4614499139662": {
    "brand": "BabyBjörn",
    "quality": 0.9,
    "trend": {
-    "score": 0.197,
+    "score": 0.208,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15397442257280": {
@@ -401,18 +401,18 @@
    "brand": "Liewood",
    "quality": 0.8,
    "trend": {
-    "score": 0.279,
+    "score": 0.275,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/9112547852637": {
    "brand": "Metsola",
    "quality": 0.8,
    "trend": {
-    "score": 0.431,
+    "score": 0.497,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6760497676366": {
@@ -423,9 +423,9 @@
    "brand": "Done by Deer",
    "quality": 0.8,
    "trend": {
-    "score": 0.44,
+    "score": 0.564,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6972053028942": {
@@ -444,9 +444,9 @@
    "brand": "Stokke",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.494,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6755922247758": {
@@ -457,72 +457,72 @@
    "brand": "Stokke",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.494,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15905689010560": {
    "brand": "Metsola",
    "quality": 0.8,
    "trend": {
-    "score": 0.431,
+    "score": 0.497,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15634422694272": {
    "brand": "Metsola",
    "quality": 0.8,
    "trend": {
-    "score": 0.431,
+    "score": 0.497,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/7273687253173": {
    "brand": "Konges",
    "quality": 0.9,
    "trend": {
-    "score": 0.706,
+    "score": 0.698,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15049103114616": {
    "brand": "Gugguu",
    "quality": 0.82,
    "trend": {
-    "score": 0.415,
+    "score": 0.387,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15204191895927": {
    "brand": "Liewood",
    "quality": 0.8,
    "trend": {
-    "score": 0.279,
+    "score": 0.275,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15067428913528": {
    "brand": "Gugguu",
    "quality": 0.82,
    "trend": {
-    "score": 0.415,
+    "score": 0.387,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15051114873208": {
    "brand": "Gugguu",
    "quality": 0.82,
    "trend": {
-    "score": 0.415,
+    "score": 0.387,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/9146690797900": {
@@ -533,9 +533,9 @@
    "brand": "Ergobaby",
    "quality": 0.85,
    "trend": {
-    "score": 0.266,
+    "score": 0.426,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.714,
@@ -549,9 +549,9 @@
    "brand": "BabyBjörn",
    "quality": 0.9,
    "trend": {
-    "score": 0.197,
+    "score": 0.208,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.079,
@@ -578,45 +578,45 @@
    "brand": "Done by Deer",
    "quality": 0.8,
    "trend": {
-    "score": 0.44,
+    "score": 0.564,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15033145393527": {
    "brand": "Liewood",
    "quality": 0.8,
    "trend": {
-    "score": 0.279,
+    "score": 0.275,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6954987716651": {
    "brand": "Done by Deer",
    "quality": 0.8,
    "trend": {
-    "score": 0.44,
+    "score": 0.564,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15021469466999": {
    "brand": "Liewood",
    "quality": 0.8,
    "trend": {
-    "score": 0.279,
+    "score": 0.275,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/8880274243928": {
    "brand": "Done by Deer",
    "quality": 0.8,
    "trend": {
-    "score": 0.44,
+    "score": 0.564,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/4840771813454": {
@@ -647,9 +647,9 @@
    "brand": "Cybex",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 0.238,
@@ -667,9 +667,9 @@
    "brand": "Cybex",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15425827799419": {
@@ -678,16 +678,16 @@
    "trend": {
     "score": 1.0,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/10185682125067": {
    "brand": "Emmaljunga",
    "quality": 0.85,
    "trend": {
-    "score": 0.306,
+    "score": 0.313,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15275711824251": {
@@ -698,9 +698,9 @@
    "brand": "Maxi-Cosi",
    "quality": 0.75,
    "trend": {
-    "score": 0.886,
+    "score": 0.838,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/6939040186446": {
@@ -709,7 +709,7 @@
    "trend": {
     "score": 1.0,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/7410664734798": {
@@ -720,36 +720,36 @@
    "brand": "BabyBjörn",
    "quality": 0.9,
    "trend": {
-    "score": 0.197,
+    "score": 0.208,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/7434012917838": {
    "brand": "Maxi-Cosi",
    "quality": 0.75,
    "trend": {
-    "score": 0.886,
+    "score": 0.838,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15222902522235": {
    "brand": "Momcozy",
    "quality": 0.7,
    "trend": {
-    "score": 0.726,
+    "score": 0.676,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/7003154284622": {
    "brand": "Bugaboo",
    "quality": 0.9,
    "trend": {
-    "score": 0.353,
+    "score": 0.342,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15437744767355": {
@@ -764,18 +764,18 @@
    "brand": "Ergobaby",
    "quality": 0.85,
    "trend": {
-    "score": 0.266,
+    "score": 0.426,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15355206140283": {
    "brand": "Cybex",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 1.0,
@@ -789,9 +789,9 @@
    "brand": "Cybex",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "expert": {
     "score": 1.0,
@@ -805,11 +805,10 @@
    "brand": "Cybex",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.505,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
-   },
-   "available": false
+    "date": "2026-11-26"
+   }
   },
   "gid://shopify/Product/15225098076539": {
    "brand": "Owlet",
@@ -840,18 +839,18 @@
    "brand": "Stokke",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.494,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/15380397064571": {
    "brand": "Stokke",
    "quality": 0.95,
    "trend": {
-    "score": 0.52,
+    "score": 0.494,
     "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/8725965668684": {
@@ -860,7 +859,7 @@
    "trend": {
     "score": 0.75,
     "source": "Toimituksen arvio (korvautuu Google Trends -datalla)",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   },
   "gid://shopify/Product/9017202737484": {
@@ -869,7 +868,7 @@
    "trend": {
     "score": 0.75,
     "source": "Toimituksen arvio (korvautuu Google Trends -datalla)",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    "available": false
   },
@@ -879,7 +878,7 @@
    "trend": {
     "score": 0.75,
     "source": "Toimituksen arvio (korvautuu Google Trends -datalla)",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   }
  }
