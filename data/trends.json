@@ -1,106 +1,106 @@
 {
  "brands": {
   "BabyBjörn": {
-   "score": 0.208,
-   "growth": 0.858,
+   "score": 0.304,
+   "growth": 0.954,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "BeSafe": {
-   "score": 0.781,
-   "growth": 1.431,
+   "score": 0.816,
+   "growth": 1.466,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Bugaboo": {
    "score": 0.342,
    "growth": 0.992,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Cybex": {
-   "score": 0.505,
-   "growth": 1.155,
+   "score": 0.496,
+   "growth": 1.146,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Done by Deer": {
-   "score": 0.564,
-   "growth": 1.214,
+   "score": 0.6,
+   "growth": 1.25,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Emmaljunga": {
    "score": 0.313,
    "growth": 0.963,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Ergobaby": {
-   "score": 0.426,
-   "growth": 1.076,
+   "score": 0.255,
+   "growth": 0.905,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Gugguu": {
-   "score": 0.387,
-   "growth": 1.037,
+   "score": 0.434,
+   "growth": 1.084,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Joolz": {
-   "score": 1.0,
-   "growth": 1.769,
+   "score": 0.279,
+   "growth": 0.929,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Konges": {
-   "score": 0.698,
-   "growth": 1.348,
+   "score": 0.694,
+   "growth": 1.344,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Liewood": {
-   "score": 0.275,
-   "growth": 0.925,
+   "score": 0.377,
+   "growth": 1.027,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Maxi-Cosi": {
-   "score": 0.838,
-   "growth": 1.488,
+   "score": 0.962,
+   "growth": 1.612,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Metsola": {
-   "score": 0.497,
-   "growth": 1.147,
+   "score": 0.548,
+   "growth": 1.198,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Momcozy": {
-   "score": 0.676,
-   "growth": 1.326,
+   "score": 0.94,
+   "growth": 1.59,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Stokke": {
-   "score": 0.494,
-   "growth": 1.144,
+   "score": 0.521,
+   "growth": 1.171,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "VTech": {
    "score": 1.0,
-   "growth": 2.227,
+   "growth": 2.707,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "bbhugme": {
-   "score": 1.0,
-   "growth": 1.932,
+   "score": 0.846,
+   "growth": 1.496,
    "source": "Google Trends (FI, SE, NO, DK), 30 pv vs 12 kk",
-   "date": "2026-11-26"
+   "date": "2026-11-27"
   },
   "Owlet": {
    "score": 1.0,
